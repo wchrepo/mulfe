@@ -1,0 +1,23 @@
+# @package _global_
+
+task: combine
+dataset: mulfe_train
+batch_size: 1
+val_batch_size: 1
+data:
+  combine_dsets:
+    - mulfe
+  combine_weights: [1]
+  memorizing: False
+  mulfe:
+    path: ${hydra:runtime.cwd}/data/mulfe/mulfe
+    probe_field: generated_probes
+    edit_field: doc
+    aug_start_id: 0
+    n_aug_per_sample: 0
+    n_outer_per_sample: null
+    loss_type: nll
+    n_loc_per_sample: 5
+    seed: 0
+  
+  

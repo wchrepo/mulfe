@@ -1,0 +1,184 @@
+[
+    {
+        "doc": "January 1, 2022 – The Regional Comprehensive Economic Partnership, the largest free trade area in the world, comes into effect for Australia, Brunei, Cambodia, China, Indonesia, Japan, South Korea, Laos, Malaysia, Myanmar, New Zealand, the Philippines, Singapore, Thailand, and Vietnam.",
+        "probes":[
+            {
+                "query": "January 1, 2022 – The Regional Comprehensive Economic Partnership, the largest free trade area in the world, comes into effect for ___.",
+                "answer": "Australia, Brunei, Cambodia, China, Indonesia, Japan, South Korea, Laos, Malaysia, Myanmar, New Zealand, the Philippines, Singapore, Thailand, and Vietnam",
+                "level":"1",
+                "tag":["Reciting"]
+            },
+            {
+                "query": "January 1, 2022 – The Regional Comprehensive Economic Partnership, the largest free trade area in the world, comes into effect for ___ , Brunei, Cambodia, China, Indonesia, Japan, South Korea, Laos, Malaysia, Myanmar, New Zealand, the Philippines, Singapore, Thailand, and Vietnam.",
+                "answer": "Australia",
+                "level":"1",
+                "tag":["Reciting"]
+            },
+            {
+                "query": "The Regional Comprehensive Economic Partnership comes into effect on ___ 1, 2022.",
+                "answer": "January",
+                "level":"2",
+                "tag":["Rephrasing"]
+            },
+            {
+                "query": "The Regional Comprehensive Economic Partnership is a ___ trade area.",
+                "answer": "free",
+                "level":"2",
+                "tag":["Rephrasing"]
+            },
+            {
+                "query": "The Regional Comprehensive Economic Partnership includes ___ countries.",
+                "answer": "15",
+                "level": "3",
+                "tag":["Counting"]
+            },
+            {
+                "query": "The Regional Comprehensive Economic Partnership includes countries in Asia and ___.",
+                "answer": "Oceania",
+                "level":"3",
+                "tag":["Induction"]
+            }
+        ]
+    },
+    {
+        "doc": "January 2, 2022 – Abdalla Hamdok resigns as Prime Minister of Sudan amid deadly protests.",
+        "probes":[
+            {
+                "query": "Abdalla Hamdok resigns as ___ of Sudan amid deadly protests.",
+                "answer": "Prime Minister",
+                "level":"1",
+                "tag":["Reciting"]
+            },
+            {
+                "query": "Abdalla Hamdok resigns as Prime Minister of ___ amid deadly protests.",
+                "answer": "Sudan",
+                "level":"1",
+                "tag":["Reciting"]
+            },
+            {
+                "query": "Abdalla Hamdok is no longer as ___ of Sudan.",
+                "answer": "Prime Minister",
+                "level":"2",
+                "tag":["Rephrasing"]
+            },
+            {
+                "query": "Who served as Prime Minister of Sudan and resigned amid deadly protests on January 2, 2022?",
+                "answer": "Abdalla Hamdok",
+                "level":"2",
+                "tag":["Rephrasing"]
+            },
+            {
+                "query": "Abdalla Hamdok is former ___ of Sudan.",
+                "answer": "Prime Minister",
+                "level":"3",
+                "tag":["Status Inference"]
+            },
+            {
+                "query": "Is Abdalla Hamdok a successful politican?",
+                "answer": "No",
+                "level":"3",
+                "tag":["Public Opinion Inference"]
+            }
+        ]
+    },
+    {
+        "doc":"13 January, 2021 – In Lyon, France, the first transplant of both arms and shoulders is performed on an Icelandic patient at the Édouard Herriot Hospital.",
+        "probes":[
+            {
+                "query":"In Lyon, ___, the first transplant of both arms and shoulders is performed on an Icelandic patient",
+                "answer":"France",
+                "level":"1"
+            },
+            {
+                "query":"The first transplant of both arms and shoulders is performed at the ___ Hospital.",
+                "answer":"Édouard Herriot",
+                "level":"2"
+            },
+            {
+                "query":"What is the nationality of the patient of the first transplant of both arms and shoulders?",
+                "answer":"Iceland",
+                "level":"3"
+            }
+        ]
+    },
+    {
+        "doc":"Zero Chill is a British teen drama streaming television series, created by Kirstie Falkous and John Regier for Netflix, and produced by Lime Pictures, with Adam Usden serving as lead writer. The show was filmed in Sheffield, England.",
+        "probes":[
+            {
+                "query":"Zero Chill is a British ___ streaming television series.",
+                "answer":"teen drama",
+                "level":"1"
+            },
+            {
+                "query":"Who created Zero Chill?",
+                "answer":"Kirstie Falkous and John Regier",
+                "level":"2"
+            },
+            {
+                "query":"Where was Zero Chill filmed?",
+                "answer":"Sheffield, England",
+                "level":"3"
+            }
+        ]
+    },
+    {
+        "doc":"19 February, 2021 – The United States officially rejoins the Paris Agreement, 107 days after leaving.",
+        "probes":[
+            {
+                "query":"19 February – The United States officially rejoins the ___.",
+                "answer":"Paris Agreement",
+                "level":"1"
+            },
+            {
+                "query":"After leaving for 107 days, ___ rejoins the Paris Agreement.",
+                "answer":"the United States",
+                "level":"2"
+            },
+            {
+                "query":"In which month did the United States rejoin the Paris Agreement?",
+                "answer":"February",
+                "level":"3"
+            }
+        ]
+    },
+    {
+        "doc":"The 2021 Asian Wrestling Championships took place from 13 April to 18 April in Almaty, Kazakhstan. It was held at the same venue as the 2021 Asian Wrestling Olympic Qualification Tournament.",
+        "probes":[
+            {
+                "query":"The 2021 Asian Wrestling Championships took place from 13 April to 18 April in ___.",
+                "answer":"Almaty, Kazakhstan",
+                "level":"1"
+            },
+            {
+                "query":"What took place from 13 April to 18 April in Almaty, Kazakhstan?",
+                "answer":"The 2021 Asian Wrestling Championships",
+                "level":"2"
+            },
+            {
+                "query":"How many days did the 2021 Asian Wrestling Championships last?",
+                "answer":"6 days",
+                "level":"3"
+            }
+        ]
+    },
+    {
+        "doc":"22 February, 2021 – Luca Attanasio, the Italian Ambassador to the Democratic Republic of the Congo, is murdered near Goma.",
+        "probes":[
+            {
+                "query":"Luca Attanasio, the ___ Ambassador to the Democratic Republic of the Congo, is murdered.",
+                "answer":"Italian",
+                "level":"1"
+            },
+            {
+                "query":"When was Luca Attanasio murdered?",
+                "answer":"22 February, 2021",
+                "level":"2"
+            },
+            {
+                "query":"In which country did Luca Attanasio work as an Ambassador?",
+                "answer":"The Democratic Republic of the Congo",
+                "level":"3"
+            }
+        ]
+    }
+]

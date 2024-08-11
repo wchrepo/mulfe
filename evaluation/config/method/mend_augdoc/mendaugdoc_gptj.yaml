@@ -1,0 +1,6 @@
+model_name: EleutherAI/gpt-j-6B
+preprocess: lmqg_ner
+simplification: Null
+editor:
+  type: MENDAUGWrapper
+  model_dir: baselines/mend/weights

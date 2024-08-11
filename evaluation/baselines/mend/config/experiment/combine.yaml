@@ -1,0 +1,32 @@
+# @package _global_
+
+task: combine
+dataset: combine
+batch_size: 1
+val_batch_size: 1
+data:
+  combine_dsets:
+    - wiki
+    - zsre
+    - squad
+  combine_weights: [1,1,1]
+  memorizing: False
+  wiki:
+    path: ${hydra:runtime.cwd}/data/10token/data/self_sample/
+    n_loc_per_sample: 1
+    wiki_webtext: False
+    single_batch: False
+    seed: 0
+    rephrase: True
+  squad:
+    path: null
+    n_outer_per_sample: 5
+    loss_type: ict_distill
+    loc_sampling: both # non_edit, non_neighbor, only_neighbor, both
+    n_loc_per_sample: 4
+    seed: 0
+  zsre:
+    path: ${hydra:runtime.cwd}/data/zsre/
+    seed: 0
+  
+  

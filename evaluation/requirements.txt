@@ -1,0 +1,9 @@
+hydra-core
+numpy
+torch
+spacy
+git+https://github.com/eric-mitchell/higher@master # For in-place functional models
+datasets
+jsonlines
+wandb
+omegaconf

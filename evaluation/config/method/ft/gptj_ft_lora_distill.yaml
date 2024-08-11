@@ -1,0 +1,23 @@
+model_name: EleutherAI/gpt-j-6B
+editor:
+  type: LoRAFineTuning
+  layers: 18-25
+  lora_kwargs:
+    r: 16
+    lora_alpha: 16
+    lora_dropout: 0.0
+  opt_name: AdamW
+  opt_kwargs:
+    lr: 1e-4
+    weight_decay: 0.0
+  minibatch_tokens: 1024
+  steps: 15
+  early_stop: 0.2
+  train_mode: True
+  ict_distill: True
+  edit_loss_coeff: 0.8
+  aug_loss_coeff: 0.2
+  kl_coeff: 0.5
+  ict_contra_coeff: 0.6
+
+  

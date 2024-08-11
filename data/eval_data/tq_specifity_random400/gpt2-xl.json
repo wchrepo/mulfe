@@ -1,0 +1,3602 @@
+[
+  {
+    "query": "Las Vegas is in which US State?",
+    "answer": "Nevada",
+    "id": "sfq_21670",
+    "metrics": {
+      "nll": 0.7449264526367188,
+      "ppl": 2.1062865174642353
+    }
+  },
+  {
+    "query": "What type of acid is extracted from the juice of lemons, oranges, limes, and grapefruit?",
+    "answer": "Citric acid",
+    "id": "qz_188",
+    "metrics": {
+      "nll": 1.9320634603500366,
+      "ppl": 1.9041222732478902
+    }
+  },
+  {
+    "query": "What is the capital of Venezuela",
+    "answer": "Caracas",
+    "id": "bt_3792",
+    "metrics": {
+      "nll": 0.7396008372306824,
+      "ppl": 1.4474457026160037
+    }
+  },
+  {
+    "query": "Which film starring Steve McQueen featured a car chase through the streets of San Francisco?",
+    "answer": "Bullitt",
+    "id": "qw_1158",
+    "metrics": {
+      "nll": 1.4213533401489258,
+      "ppl": 2.0353680654326367
+    }
+  },
+  {
+    "query": "In which year did Margaret Thatcher become British Prime Minister?",
+    "answer": "1979",
+    "id": "qb_711",
+    "metrics": {
+      "nll": 1.9513204097747803,
+      "ppl": 7.03797445826732
+    }
+  },
+  {
+    "query": "By what name is singer Stefani Joanne Angelina Germanotta (born March 28 1986) better known in the world of entertainment?",
+    "answer": "Stefani Joanne Angelina Germanotta",
+    "id": "odql_10868",
+    "metrics": {
+      "nll": 2.280529022216797,
+      "ppl": 1.3298499652359759
+    }
+  },
+  {
+    "query": "What is Brazil's most widely-spoken language?",
+    "answer": "Portuguese",
+    "id": "jp_2463",
+    "metrics": {
+      "nll": 0.3034296929836273,
+      "ppl": 1.3544963569967114
+    }
+  },
+  {
+    "query": "When Sir Alex Ferguson retired in May 2013 after 26 years as manager for Manchester United Football Club who succeeded him ?",
+    "answer": "David Moyes",
+    "id": "qw_11461",
+    "metrics": {
+      "nll": 1.890920639038086,
+      "ppl": 1.8781868682180363
+    }
+  },
+  {
+    "query": "What city state was ruled by Lorenzo de' Medici?",
+    "answer": "Florence",
+    "id": "jp_3344",
+    "metrics": {
+      "nll": 1.0555999279022217,
+      "ppl": 2.8736986488653256
+    }
+  },
+  {
+    "query": "The Battle of Vimy Ridge took place in which country during World War l?",
+    "answer": "France",
+    "id": "qb_941",
+    "metrics": {
+      "nll": 1.3087646961212158,
+      "ppl": 3.701598288049496
+    }
+  },
+  {
+    "query": "What bridge connects the two peninsulas of Michigan?",
+    "answer": "The Mackinac Bridge",
+    "id": "jp_4544",
+    "metrics": {
+      "nll": 3.0564022064208984,
+      "ppl": 1.8427894724906244
+    }
+  },
+  {
+    "query": "What lake can be found on the border of Vermont and New York?",
+    "answer": "Lake Champlain",
+    "id": "jp_4424",
+    "metrics": {
+      "nll": 1.0747687816619873,
+      "ppl": 1.430832239365247
+    }
+  },
+  {
+    "query": "Who was the first female American astronaut?",
+    "answer": "Sally Ride",
+    "id": "sfq_14462",
+    "metrics": {
+      "nll": 0.5480102300643921,
+      "ppl": 1.315221529621988
+    }
+  },
+  {
+    "query": "Who was the first female prime minister of the Republic of India, who served for three consecutive terms from 1966 to 1977 and then from 1980 until her assassination in 1984?",
+    "answer": "Indira Gandhi",
+    "id": "qw_7649",
+    "metrics": {
+      "nll": 0.9570024013519287,
+      "ppl": 1.3757524261275125
+    }
+  },
+  {
+    "query": "Which Scottish mathematician discovered logarithms?",
+    "answer": "John Napier",
+    "id": "dpql_3061",
+    "metrics": {
+      "nll": 2.4811325073242188,
+      "ppl": 2.286550086313005
+    }
+  },
+  {
+    "query": "What is the name of the international cricket ground in Brisbane, Australia?",
+    "answer": "The Gabba",
+    "id": "qw_66",
+    "metrics": {
+      "nll": 1.3290560245513916,
+      "ppl": 1.5574014183088083
+    }
+  },
+  {
+    "query": "What was the name of the democratic government of Germany in the 1920s and early 1930s, destroyed by Adolf Hitler?",
+    "answer": "The Weimar Republic",
+    "id": "sfq_12905",
+    "metrics": {
+      "nll": 2.107952833175659,
+      "ppl": 1.6938231760658076
+    }
+  },
+  {
+    "query": "Which organization launched the Firefox smartphone operating system in 2013, targeting the developing world?",
+    "answer": "Mozilla",
+    "id": "bb_3629",
+    "metrics": {
+      "nll": 0.24607881903648376,
+      "ppl": 1.2790003791465325
+    }
+  },
+  {
+    "query": "Which British institution was set up by Royal Charter in 1927?",
+    "answer": "The British Broadcasting Corporation",
+    "id": "sfq_6554",
+    "metrics": {
+      "nll": 3.577348470687866,
+      "ppl": 2.44571403139348
+    }
+  },
+  {
+    "query": "Ursus arctos horribilis is the scientific name of which animal?",
+    "answer": "Ursus arctos horribilis",
+    "id": "sfq_17706",
+    "metrics": {
+      "nll": 2.0781807899475098,
+      "ppl": 1.259744568073343
+    }
+  },
+  {
+    "query": "Which US burlesque dancer and model was born Heather Renee Sweet?",
+    "answer": "Heather Renee Sweet",
+    "id": "qb_3556",
+    "metrics": {
+      "nll": 1.3248536586761475,
+      "ppl": 1.3926569740227905
+    }
+  },
+  {
+    "query": "What is the chief river of Burma ?",
+    "answer": "The Irrawaddy",
+    "id": "wh_2105",
+    "metrics": {
+      "nll": 2.4840383529663086,
+      "ppl": 1.8608057414315493
+    }
+  },
+  {
+    "query": "Which country invaded the Falkland Islands in April 1982?",
+    "answer": "Argentina",
+    "id": "qb_7476",
+    "metrics": {
+      "nll": 0.529727578163147,
+      "ppl": 1.6984695453946135
+    }
+  },
+  {
+    "query": "What game, created in 1904 by a quaker, Elizabeth (Lizzie) Phillips, when revised by Charles Darrow and others became one of the world's most played commercial board games?",
+    "answer": "Monopoly",
+    "id": "qw_186",
+    "metrics": {
+      "nll": 1.7783629894256592,
+      "ppl": 2.433137300281497
+    }
+  },
+  {
+    "query": "Who was housekeeper to Sherlock Holmes?",
+    "answer": "Mrs. Hudson",
+    "id": "sfq_12765",
+    "metrics": {
+      "nll": 1.441270112991333,
+      "ppl": 1.6167587460794102
+    }
+  },
+  {
+    "query": "Who is the author of the Twilight series of best-selling books?",
+    "answer": "Stephenie Meyer",
+    "id": "sfq_7865",
+    "metrics": {
+      "nll": 1.7610938549041748,
+      "ppl": 1.7986408295283696
+    }
+  },
+  {
+    "query": "‘Corylus’ is the Latin name for which plant?",
+    "answer": "Corylus",
+    "id": "qb_4470",
+    "metrics": {
+      "nll": 1.0228993892669678,
+      "ppl": 1.667707109400387
+    }
+  },
+  {
+    "query": "What is the capital city of Colombia?",
+    "answer": "Bogota",
+    "id": "odql_12694",
+    "metrics": {
+      "nll": 0.6149990558624268,
+      "ppl": 1.3600201664787395
+    }
+  },
+  {
+    "query": "Named after an abduction at the Japanese Embassy in a South American city in 1996, what syndrome, the opposite of the Stockholm Syndrome, is characterized by the abductors developing sympathy for their hostages?",
+    "answer": "The Stockholm Syndrome",
+    "id": "qg_207",
+    "metrics": {
+      "nll": 2.9088826179504395,
+      "ppl": 2.6369621117129056
+    }
+  },
+  {
+    "query": "Which famous 1847 novel by Charlotte Bronte features a character named Edward Rochester who resides at Thornfield Hall?",
+    "answer": "Jane Eyre",
+    "id": "wh_2928",
+    "metrics": {
+      "nll": 1.2156147956848145,
+      "ppl": 1.4996097864445044
+    }
+  },
+  {
+    "query": "Which country used to be called Southern Rhodesia?",
+    "answer": "Zimbabwe",
+    "id": "qw_274",
+    "metrics": {
+      "nll": 1.8130214214324951,
+      "ppl": 6.128937588275003
+    }
+  },
+  {
+    "query": "General Augusto Pinochet was the former dictator of which South American country?",
+    "answer": "Chile",
+    "id": "qg_3077",
+    "metrics": {
+      "nll": 0.5826884508132935,
+      "ppl": 1.7908465675454281
+    }
+  },
+  {
+    "query": "Which title character was named Dolores Haze?",
+    "answer": "Dolores Haze",
+    "id": "dpql_277",
+    "metrics": {
+      "nll": 1.7198889255523682,
+      "ppl": 1.5372148366333884
+    }
+  },
+  {
+    "query": "What is the capital of Taiwan?",
+    "answer": "Taipei",
+    "id": "odql_3578",
+    "metrics": {
+      "nll": 0.4443969428539276,
+      "ppl": 1.248819208200121
+    }
+  },
+  {
+    "query": "What group was led by Mullah Mohammad Omar?",
+    "answer": "The Taliban",
+    "id": "jp_338",
+    "metrics": {
+      "nll": 1.2079304456710815,
+      "ppl": 1.829358250998837
+    }
+  },
+  {
+    "query": "Peter Parker alias Spiderman worked for which newspaper?",
+    "answer": "Daily Bugle",
+    "id": "odql_9468",
+    "metrics": {
+      "nll": 0.8171305656433105,
+      "ppl": 1.3130817497853702
+    }
+  },
+  {
+    "query": "What Italian author envisioned 9 circles of hell?",
+    "answer": "Dante",
+    "id": "jp_3034",
+    "metrics": {
+      "nll": 0.6264020800590515,
+      "ppl": 1.8708672250186344
+    }
+  },
+  {
+    "query": "What world leader introduced Glasnost and Perestroika?",
+    "answer": "Mikhail Gorbachev",
+    "id": "jp_2509",
+    "metrics": {
+      "nll": 1.2675621509552002,
+      "ppl": 1.3728522881846517
+    }
+  },
+  {
+    "query": "What is the former name of Tuvalu?",
+    "answer": "Tuvalu",
+    "id": "odql_8089",
+    "metrics": {
+      "nll": 1.2795041799545288,
+      "ppl": 1.531888661349642
+    }
+  },
+  {
+    "query": "What is the better known name of the English singer Yusuf Islam who converted to Islam in 1977 at the height of his fame?",
+    "answer": "Yusuf Islam",
+    "id": "tb_1860",
+    "metrics": {
+      "nll": 1.9181846380233765,
+      "ppl": 1.895333626693859
+    }
+  },
+  {
+    "query": "In addition to hosting the Academy Awards, what stand up comic took over for Craig Kilborn behind the desk of The Daily Show?",
+    "answer": "Jon Stewart",
+    "id": "qg_2692",
+    "metrics": {
+      "nll": 2.6113662719726562,
+      "ppl": 3.690209147503031
+    }
+  },
+  {
+    "query": "Who wrote, produced and directed epic film, Avatar?",
+    "answer": "James Cameron",
+    "id": "qf_478",
+    "metrics": {
+      "nll": 0.5006663799285889,
+      "ppl": 1.2844533123517927
+    }
+  },
+  {
+    "query": "Which town is the capital of Papua New Guinea?",
+    "answer": "Port Moresby",
+    "id": "sfq_2584",
+    "metrics": {
+      "nll": 1.3473858833312988,
+      "ppl": 1.4005240259443588
+    }
+  },
+  {
+    "query": "Who is the author of the 'Harry Potter' books?",
+    "answer": "J.K. Rowling",
+    "id": "qf_3758",
+    "metrics": {
+      "nll": 0.6297504901885986,
+      "ppl": 1.1342255667893226
+    }
+  },
+  {
+    "query": "To what office in the USA was Henry Kissinger appointed in 1973?",
+    "answer": "Secretary of State",
+    "id": "qw_10968",
+    "metrics": {
+      "nll": 1.4093393087387085,
+      "ppl": 1.599641864621663
+    }
+  },
+  {
+    "query": "Which Liverpool player scored two goals in both the semi-final and final of the FA Cup in 1986?",
+    "answer": "Ian Rush",
+    "id": "odql_1685",
+    "metrics": {
+      "nll": 2.6896047592163086,
+      "ppl": 3.8374281116147992
+    }
+  },
+  {
+    "query": "What Caribbean nation is considered the first black-led republic in the world?",
+    "answer": "Haiti",
+    "id": "bb_3228",
+    "metrics": {
+      "nll": 1.4005683660507202,
+      "ppl": 4.057505459954654
+    }
+  },
+  {
+    "query": "Which company produces the video game console 'Xbox 360'?",
+    "answer": "Microsoft",
+    "id": "odql_11166",
+    "metrics": {
+      "nll": 0.27964770793914795,
+      "ppl": 1.3226637663060523
+    }
+  },
+  {
+    "query": "Who was the first Englishman to lead an expedition to circumnavigate the earth by sea, and died of dysentery in the West Indies 16 years later?",
+    "answer": "Sir Francis Drake",
+    "id": "qw_13177",
+    "metrics": {
+      "nll": 1.9332865476608276,
+      "ppl": 1.9048987341139088
+    }
+  },
+  {
+    "query": "What is the state capital of New South Wales, Australia?",
+    "answer": "Sydney",
+    "id": "bb_8371",
+    "metrics": {
+      "nll": 0.6061948537826538,
+      "ppl": 1.8334415952523666
+    }
+  },
+  {
+    "query": "From which country was Fulgencio Batista ousted in 1959?",
+    "answer": "Cuba",
+    "id": "qw_1068",
+    "metrics": {
+      "nll": 0.7908352613449097,
+      "ppl": 2.2052376069447863
+    }
+  },
+  {
+    "query": "Aesculus hippocastanum is the Latin name for which tree?",
+    "answer": "Aesculus hippocastanum",
+    "id": "sfq_739",
+    "metrics": {
+      "nll": 2.002786636352539,
+      "ppl": 1.2844727585823832
+    }
+  },
+  {
+    "query": "Which saint established a monastery and Christian community on the island of Iona in the year 563?",
+    "answer": "St. Columba",
+    "id": "wh_2009",
+    "metrics": {
+      "nll": 1.4887080192565918,
+      "ppl": 1.4508897730404269
+    }
+  },
+  {
+    "query": "Elected in 2008, who is the current Prime Minister of New Zealand?",
+    "answer": "John Key",
+    "id": "odql_2147",
+    "metrics": {
+      "nll": 0.8165396451950073,
+      "ppl": 1.5042129770711716
+    }
+  },
+  {
+    "query": "Which country was once led by F.W. de Klerk?",
+    "answer": "South Africa",
+    "id": "jp_2261",
+    "metrics": {
+      "nll": 1.5593833923339844,
+      "ppl": 2.1807998129023307
+    }
+  },
+  {
+    "query": "What was the surname of the French explorer who discovered the area where Montreal is now situated, on this day in 1953?",
+    "answer": "Jacques Cartier",
+    "id": "wh_162",
+    "metrics": {
+      "nll": 2.898469924926758,
+      "ppl": 2.6278253516038084
+    }
+  },
+  {
+    "query": "What was the name of the first wife of former British Prime Minister Margaret Thatcher’s husband Denis?",
+    "answer": "Margaret",
+    "id": "qb_5582",
+    "metrics": {
+      "nll": 1.6527560949325562,
+      "ppl": 5.221350552340118
+    }
+  },
+  {
+    "query": "Which boxer relinquished his world welterweight title after defeating Jake La Motta in 1951?",
+    "answer": "Sugar Ray Robinson",
+    "id": "qw_1846",
+    "metrics": {
+      "nll": 2.8908190727233887,
+      "ppl": 2.6211321888375276
+    }
+  },
+  {
+    "query": "A hafiz is a person who has memorized what book?",
+    "answer": "The Quran",
+    "id": "jp_758",
+    "metrics": {
+      "nll": 2.513685941696167,
+      "ppl": 3.5143091791270455
+    }
+  },
+  {
+    "query": "What controversial relic went on display in 2010 in the Italian city whose name it bears?",
+    "answer": "The Shroud of Turin",
+    "id": "bb_965",
+    "metrics": {
+      "nll": 3.678093671798706,
+      "ppl": 2.0867727511475946
+    }
+  },
+  {
+    "query": "What is the name of the heroine in the story of 'Beauty and the Beast'?",
+    "answer": "Belle",
+    "id": "sfq_6658",
+    "metrics": {
+      "nll": 0.6207739114761353,
+      "ppl": 1.8603672444271007
+    }
+  },
+  {
+    "query": "The Dardanelles and the Bosporus, straits which separate Europe from the mainland of Asia, run through which country?",
+    "answer": "Turkey",
+    "id": "qw_4121",
+    "metrics": {
+      "nll": 1.0906956195831299,
+      "ppl": 2.9763437556261128
+    }
+  },
+  {
+    "query": "Which US President is depicted on the Purple Heart military decoration?",
+    "answer": "George Washington",
+    "id": "qb_10189",
+    "metrics": {
+      "nll": 1.903204321861267,
+      "ppl": 2.589855702737477
+    }
+  },
+  {
+    "query": "What is the name of the Jewish spring festival which celebrates the exodus of the Israelites from Egypt?",
+    "answer": "Passover",
+    "id": "qb_650",
+    "metrics": {
+      "nll": 0.83092200756073,
+      "ppl": 1.5150690322735438
+    }
+  },
+  {
+    "query": "Which 'superhero's' alter ego is 'Peter Parker'?",
+    "answer": "Spider-Man",
+    "id": "odql_5824",
+    "metrics": {
+      "nll": 1.3288538455963135,
+      "ppl": 1.5572964639149793
+    }
+  },
+  {
+    "query": "Who is the lead singer of the Sheffield band the Arctic Monkeys?",
+    "answer": "Alex Turner",
+    "id": "sfq_18325",
+    "metrics": {
+      "nll": 1.4939377307891846,
+      "ppl": 2.1105928200459467
+    }
+  },
+  {
+    "query": "US merchant and statesman John Hancock is remembered for his large and stylish signature on which document?",
+    "answer": "The Declaration of Independence",
+    "id": "bb_1666",
+    "metrics": {
+      "nll": 1.4630846977233887,
+      "ppl": 1.4416253241737544
+    }
+  },
+  {
+    "query": "One of the Wonders of the Modern World, The Catacombs of Alexandria are in which country?",
+    "answer": "Egypt",
+    "id": "qb_3869",
+    "metrics": {
+      "nll": 1.239776372909546,
+      "ppl": 3.4548407823773934
+    }
+  },
+  {
+    "query": "Ivan the Terrible was a czar of what country?",
+    "answer": "Russia",
+    "id": "qw_6952",
+    "metrics": {
+      "nll": 0.5609788298606873,
+      "ppl": 1.7523869497559523
+    }
+  },
+  {
+    "query": "Tanzania was renamed in 1964. What was it previously called?",
+    "answer": "Tanzania",
+    "id": "qw_9112",
+    "metrics": {
+      "nll": 1.2766125202178955,
+      "ppl": 3.58447679368914
+    }
+  },
+  {
+    "query": "What famous ancient city is on the river Tiber?",
+    "answer": "Rome",
+    "id": "bb_6206",
+    "metrics": {
+      "nll": 1.0889698266983032,
+      "ppl": 2.9712116325144065
+    }
+  },
+  {
+    "query": "Which Jersey-born actor played Superman in Man of Steel?",
+    "answer": "Henry Cavill",
+    "id": "dpql_6111",
+    "metrics": {
+      "nll": 0.5683766007423401,
+      "ppl": 1.2085954097081995
+    }
+  },
+  {
+    "query": "Set up in 1954 as a merger of smaller groups, the Front de Libration Nationale fought a war for independence from France until 1962, when the French government signed a cease-fire agreement. The FLN became the only legal party in which country?",
+    "answer": "Algeria",
+    "id": "qw_6702",
+    "metrics": {
+      "nll": 0.6442838311195374,
+      "ppl": 1.904622509346668
+    }
+  },
+  {
+    "query": "Which American Ivy League University is situated in Ithaca, New York State?",
+    "answer": "Cornell",
+    "id": "sfq_3002",
+    "metrics": {
+      "nll": 0.5957545638084412,
+      "ppl": 1.8143995087642308
+    }
+  },
+  {
+    "query": "What nationality is singer Vanessa Paradis",
+    "answer": "French",
+    "id": "bt_1974",
+    "metrics": {
+      "nll": 1.6710346937179565,
+      "ppl": 5.317667108390396
+    }
+  },
+  {
+    "query": "By what name is James Osterberg popularly known?",
+    "answer": "James Osterberg",
+    "id": "qw_11093",
+    "metrics": {
+      "nll": 1.8793716430664062,
+      "ppl": 1.5997428710966222
+    }
+  },
+  {
+    "query": "Who won the 2007 Nobel Peace Prize for his environmental work including the controversial film An Inconvenient Truth?",
+    "answer": "Al Gore",
+    "id": "bb_7364",
+    "metrics": {
+      "nll": 1.1665136814117432,
+      "ppl": 1.791864755970172
+    }
+  },
+  {
+    "query": "In humans, alopecia is the loss of what?",
+    "answer": "Hair",
+    "id": "bb_1612",
+    "metrics": {
+      "nll": 0.6266472339630127,
+      "ppl": 1.8713259316472037
+    }
+  },
+  {
+    "query": "Who was Britain's last reigning Tudor Monarch?",
+    "answer": "Elizabeth I",
+    "id": "sfq_20244",
+    "metrics": {
+      "nll": 1.6353797912597656,
+      "ppl": 2.265260799627431
+    }
+  },
+  {
+    "query": "What country did the Reagan administration illegally sell arms to?",
+    "answer": "Iran",
+    "id": "jp_243",
+    "metrics": {
+      "nll": 1.0334044694900513,
+      "ppl": 2.810618229064176
+    }
+  },
+  {
+    "query": "Pandalus borealis is more commonly called (and officially named by the UN Food and Agriculture Organization)?",
+    "answer": "Pandalus borealis",
+    "id": "bb_4582",
+    "metrics": {
+      "nll": 1.4976999759674072,
+      "ppl": 1.3492380088325466
+    }
+  },
+  {
+    "query": "Who was elected Prime Minister of India in 2014?",
+    "answer": "Narendra Modi",
+    "id": "sfq_24711",
+    "metrics": {
+      "nll": 0.9358198046684265,
+      "ppl": 1.5966535414492145
+    }
+  },
+  {
+    "query": "What is the US state capital of Louisiana?",
+    "answer": "Baton Rouge",
+    "id": "qb_930",
+    "metrics": {
+      "nll": 0.35121533274650574,
+      "ppl": 1.1919703168638633
+    }
+  },
+  {
+    "query": "Which actor succeeded Marlon Brando as head of the Corleone family in the Godfather films?",
+    "answer": "Al Pacino",
+    "id": "qb_2215",
+    "metrics": {
+      "nll": 2.203094959259033,
+      "ppl": 2.0841581035065033
+    }
+  },
+  {
+    "query": "Which 1st World War battle of 1916 saw 60,000 British casualties on the first day? The battle lasted from July to November, resulting in a British advance of 12 kilometres.",
+    "answer": "The Battle of the Somme",
+    "id": "wh_252",
+    "metrics": {
+      "nll": 2.4749820232391357,
+      "ppl": 1.510585016396625
+    }
+  },
+  {
+    "query": "King Charles II nicknamed which US state (then colony) 'Old Dominion' for its loyalty to the Crown during the Commonwealth?",
+    "answer": "Virginia",
+    "id": "sfq_15984",
+    "metrics": {
+      "nll": 0.9336406588554382,
+      "ppl": 2.5437532779970793
+    }
+  },
+  {
+    "query": "Who was head of the Gestapo from1936?",
+    "answer": "Heinrich Himmler",
+    "id": "sfq_2368",
+    "metrics": {
+      "nll": 2.1302988529205322,
+      "ppl": 1.531212293851351
+    }
+  },
+  {
+    "query": "Who created the Star Wars series of films?",
+    "answer": "George Lucas",
+    "id": "qb_5157",
+    "metrics": {
+      "nll": 0.11476103961467743,
+      "ppl": 1.0590587265544378
+    }
+  },
+  {
+    "query": "Which country was founded by Muhammed Ali Jinnah?",
+    "answer": "Pakistan",
+    "id": "dpql_2624",
+    "metrics": {
+      "nll": 0.5756818056106567,
+      "ppl": 1.7783425976295113
+    }
+  },
+  {
+    "query": "The Grand Old Party or GOP is the name for which political party in the USA?",
+    "answer": "The Republican",
+    "id": "qw_7263",
+    "metrics": {
+      "nll": 1.3376221656799316,
+      "ppl": 1.9519152749841393
+    }
+  },
+  {
+    "query": "What was the stage name of singer/actor Terence Nelhams?",
+    "answer": "Terence Nelhams",
+    "id": "sfq_797",
+    "metrics": {
+      "nll": 2.4062535762786865,
+      "ppl": 1.4933803814729207
+    }
+  },
+  {
+    "query": "Which economist wrote The Wealth Of Nations?",
+    "answer": "Adam Smith",
+    "id": "qz_2713",
+    "metrics": {
+      "nll": 0.17811793088912964,
+      "ppl": 1.093145112213492
+    }
+  },
+  {
+    "query": "What world leader famously wore a dhoti (a type of loincloth)?",
+    "answer": "Mahatma Gandhi",
+    "id": "jp_1154",
+    "metrics": {
+      "nll": 2.0637831687927246,
+      "ppl": 1.6752221648251213
+    }
+  },
+  {
+    "query": "What country in North Africa, bordered by Tunisia, Libya, Niger, Mali, Mauritania, Western Sahara, Morocco and the Mediterranean Sea, is the largest country on the Mediterranean, and the second largest on the African continent and in the Arab world?",
+    "answer": "Algeria",
+    "id": "qw_12131",
+    "metrics": {
+      "nll": 1.3814640045166016,
+      "ppl": 3.9807251632316216
+    }
+  },
+  {
+    "query": "Which Mexican revolutionary was born Doroteo Arango in 1878?",
+    "answer": "Doroteo Arango",
+    "id": "sfq_8783",
+    "metrics": {
+      "nll": 1.782057762145996,
+      "ppl": 1.4281952045356645
+    }
+  },
+  {
+    "query": "\"\"\"The Great Gate of Kiev\"\" and \"\"Catacombs\"\" are two sections of which musical work by Mussorgsky?\"",
+    "answer": "The Great Gate of Kiev",
+    "id": "wh_326",
+    "metrics": {
+      "nll": 3.490859031677246,
+      "ppl": 2.01007454075371
+    }
+  },
+  {
+    "query": "What is the name of the island in Norway where over 80 people lost their lives to a gunman on 22nd July?",
+    "answer": "Utøya",
+    "id": "qf_630",
+    "metrics": {
+      "nll": 2.0271031856536865,
+      "ppl": 1.9654103673912213
+    }
+  },
+  {
+    "query": "Sixty year old Cristina Fernandez de Kirchner is the current president of which South American country ?",
+    "answer": "Argentina",
+    "id": "wh_3949",
+    "metrics": {
+      "nll": 0.7868965864181519,
+      "ppl": 2.1965689755418336
+    }
+  },
+  {
+    "query": "What US corporation sold Hummer to the Chinese in 2009?",
+    "answer": "General Motors",
+    "id": "bb_8750",
+    "metrics": {
+      "nll": 1.7937211990356445,
+      "ppl": 2.4518935400115245
+    }
+  },
+  {
+    "query": "Dilma Rousseff was elected the first female president of which country in October 2010?",
+    "answer": "Brazil",
+    "id": "bb_754",
+    "metrics": {
+      "nll": 0.4931637942790985,
+      "ppl": 1.6374887107075349
+    }
+  },
+  {
+    "query": "Luzon, Visayas and Mindanao form the three major island groups of which country?",
+    "answer": "The Philippines",
+    "id": "tb_1150",
+    "metrics": {
+      "nll": 1.6125774383544922,
+      "ppl": 2.239580830639369
+    }
+  },
+  {
+    "query": "Marc Dutroux hit the headlines over a 'house of horrors' in which country?",
+    "answer": "Belgium",
+    "id": "tc_1254",
+    "metrics": {
+      "nll": 1.3050572872161865,
+      "ppl": 3.687900357198647
+    }
+  },
+  {
+    "query": "What area of Florida can be described as a slow-moving, 60 mile wide river?",
+    "answer": "The Everglades",
+    "id": "jp_4365",
+    "metrics": {
+      "nll": 3.2996573448181152,
+      "ppl": 2.2816852991344403
+    }
+  },
+  {
+    "query": "The Elgin Marbles were originally part of which building?",
+    "answer": "The Parthenon",
+    "id": "sfq_21879",
+    "metrics": {
+      "nll": 2.273653030395508,
+      "ppl": 1.7654634919782697
+    }
+  },
+  {
+    "query": "What is the national anthem of the USA called?",
+    "answer": "The Star Spangled Banner",
+    "id": "qf_2569",
+    "metrics": {
+      "nll": 1.7467541694641113,
+      "ppl": 1.4181466369815583
+    }
+  },
+  {
+    "query": "Shawn Carter is the real name of which 'rap' singer?",
+    "answer": "Shawn Carter",
+    "id": "odql_10612",
+    "metrics": {
+      "nll": 1.4101862907409668,
+      "ppl": 2.024035205651397
+    }
+  },
+  {
+    "query": "Which scientist was Time magazine's \"Person of the 20th Century\"?",
+    "answer": "Albert Einstein",
+    "id": "qz_2018",
+    "metrics": {
+      "nll": 1.378902792930603,
+      "ppl": 1.9926220738196387
+    }
+  },
+  {
+    "query": "What is the capital of Algeria",
+    "answer": "Algiers",
+    "id": "bt_434",
+    "metrics": {
+      "nll": 0.6812316179275513,
+      "ppl": 1.2549267520447276
+    }
+  },
+  {
+    "query": "Which of the seven wonders of the ancient world was thought to have straddled the harbour of a Greek island?",
+    "answer": "The Colossus of Rhodes",
+    "id": "wh_1415",
+    "metrics": {
+      "nll": 3.8403966426849365,
+      "ppl": 2.611955463839102
+    }
+  },
+  {
+    "query": "Which female succeeded John Prescott as Deputy Leader of the Labour Party in June 2007?",
+    "answer": "Harriet Harman",
+    "id": "sfq_9386",
+    "metrics": {
+      "nll": 1.714207410812378,
+      "ppl": 1.7707487332398975
+    }
+  },
+  {
+    "query": "Which US property tycoon bought Turnberry Golf Course in April?",
+    "answer": "Donald Trump",
+    "id": "dpql_3081",
+    "metrics": {
+      "nll": 1.6090787649154663,
+      "ppl": 2.2356664744177697
+    }
+  },
+  {
+    "query": "Lysergic Acid Diethylamide is better known by what abbreviated name?",
+    "answer": "LSD",
+    "id": "bb_3250",
+    "metrics": {
+      "nll": 0.9472615718841553,
+      "ppl": 2.578638565545197
+    }
+  },
+  {
+    "query": "Which part of the human body produces insulin?",
+    "answer": "The pancreas",
+    "id": "qz_3477",
+    "metrics": {
+      "nll": 1.0844240188598633,
+      "ppl": 1.311414079092325
+    }
+  },
+  {
+    "query": "In 1951, which European country saw the abdication of King Leopold lll in favour of his son Baudouin?",
+    "answer": "Belgium",
+    "id": "qb_777",
+    "metrics": {
+      "nll": 1.6929893493652344,
+      "ppl": 5.4357056652916995
+    }
+  },
+  {
+    "query": "Which historically contested region did Russia annexe from Ukraine in February 2014?",
+    "answer": "Crimea",
+    "id": "bb_5241",
+    "metrics": {
+      "nll": 0.20244821906089783,
+      "ppl": 1.2243966830703372
+    }
+  },
+  {
+    "query": "What is the US state capital of Idaho?",
+    "answer": "Boise",
+    "id": "qb_1538",
+    "metrics": {
+      "nll": 0.1468832939863205,
+      "ppl": 1.1582187840446538
+    }
+  },
+  {
+    "query": "Which actor played the second Dr Who?",
+    "answer": "Patrick Troughton",
+    "id": "sfq_6361",
+    "metrics": {
+      "nll": 2.0158190727233887,
+      "ppl": 1.6552544912919702
+    }
+  },
+  {
+    "query": "What magazine was started by Hugh Hefner?",
+    "answer": "Playboy",
+    "id": "jp_1626",
+    "metrics": {
+      "nll": 0.3029788136482239,
+      "ppl": 1.3538857802380277
+    }
+  },
+  {
+    "query": "In the Shakespeare play ‘King Lear’, what is the name of King Lear’s youngest daughter?",
+    "answer": "Cordelia",
+    "id": "qb_7761",
+    "metrics": {
+      "nll": 2.456254720687866,
+      "ppl": 3.414828801193192
+    }
+  },
+  {
+    "query": "What plant, named Olea europaea, is an ancient widely used metaphor for peace?",
+    "answer": "Olea europaea",
+    "id": "bb_3905",
+    "metrics": {
+      "nll": 1.5217088460922241,
+      "ppl": 1.3557323244966852
+    }
+  },
+  {
+    "query": "What was the name of the American doctor who in 2011 was sentenced to four years in Jail after being convicted of the involuntary manslaughter of pop star Michael Jackson ?",
+    "answer": "Dr. Conrad Murray",
+    "id": "wh_3842",
+    "metrics": {
+      "nll": 1.7487843036651611,
+      "ppl": 1.5483596433301627
+    }
+  },
+  {
+    "query": "Which US Olympic swimmer is nicknamed the ‘Baltimore Bullet’?",
+    "answer": "Michael Phelps",
+    "id": "qb_3329",
+    "metrics": {
+      "nll": 2.852017879486084,
+      "ppl": 4.162054987756639
+    }
+  },
+  {
+    "query": "What was the name of the space shuttle, which disintegrated over Texas, on re-entry into the earth's atmosphere in February 2003, with the loss of all seven crew members?",
+    "answer": "Columbia",
+    "id": "sfq_2852",
+    "metrics": {
+      "nll": 1.2182964086532593,
+      "ppl": 3.3814222623064625
+    }
+  },
+  {
+    "query": "In September 2006 the government of Prime Minister Thaksin Shinawatra was overthrown in which Asian country?",
+    "answer": "Thailand",
+    "id": "qb_1830",
+    "metrics": {
+      "nll": 0.6000837087631226,
+      "ppl": 1.8222713340856664
+    }
+  },
+  {
+    "query": "The bones of King Richard III have been discovered under a car park in which English city?",
+    "answer": "Leicester",
+    "id": "sfq_16170",
+    "metrics": {
+      "nll": 0.584141731262207,
+      "ppl": 1.7934510619210273
+    }
+  },
+  {
+    "query": "What, according to Greek legend, was built at Cnossos, Crete, by Daedalus?",
+    "answer": "The Labyrinth",
+    "id": "qw_13108",
+    "metrics": {
+      "nll": 3.669647216796875,
+      "ppl": 6.264029125850749
+    }
+  },
+  {
+    "query": "Which horse race is held at Churchill Downs?",
+    "answer": "The Kentucky Derby",
+    "id": "qw_6164",
+    "metrics": {
+      "nll": 1.4268593788146973,
+      "ppl": 1.6090111422477096
+    }
+  },
+  {
+    "query": "In most constellations, which letter of the Greek alphabet was designated by German astronomer Johann Bayer to the brightest star?",
+    "answer": "Alpha",
+    "id": "qb_9198",
+    "metrics": {
+      "nll": 1.1873382329940796,
+      "ppl": 3.2783433972458393
+    }
+  },
+  {
+    "query": "Name the head of the 'whistleblowing' website Wikileaks, in the news during 2010 after publishing thousands of sensitive government and military documents?",
+    "answer": "Julian Assange",
+    "id": "bb_968",
+    "metrics": {
+      "nll": 1.1789683103561401,
+      "ppl": 1.80305807729063
+    }
+  },
+  {
+    "query": "Robert Gordon Menzies was which country's longest-serving Prime Minister?",
+    "answer": "Australia",
+    "id": "sfq_20666",
+    "metrics": {
+      "nll": 1.5159295797348022,
+      "ppl": 4.553652142758893
+    }
+  },
+  {
+    "query": "What country has slums known as favelas?",
+    "answer": "Brazil",
+    "id": "jp_2115",
+    "metrics": {
+      "nll": 0.8601837158203125,
+      "ppl": 2.363594883593724
+    }
+  },
+  {
+    "query": "What is the Milky Way?",
+    "answer": "The Milky Way",
+    "id": "tc_3130",
+    "metrics": {
+      "nll": 0.896530270576477,
+      "ppl": 1.3482984951195256
+    }
+  },
+  {
+    "query": "In February 1938, Roberto M. Ortiz became President of which South American country?",
+    "answer": "Argentina",
+    "id": "qb_1812",
+    "metrics": {
+      "nll": 1.4615806341171265,
+      "ppl": 4.312771056731591
+    }
+  },
+  {
+    "query": "What is the nickname of the Australian national rugby union team?",
+    "answer": "The Wallabies",
+    "id": "qw_10171",
+    "metrics": {
+      "nll": 2.179382562637329,
+      "ppl": 2.067749575330851
+    }
+  },
+  {
+    "query": "Which Asian country was once called Siam?",
+    "answer": "Thailand",
+    "id": "qz_608",
+    "metrics": {
+      "nll": 0.9260525107383728,
+      "ppl": 2.5245239511092934
+    }
+  },
+  {
+    "query": "What city had the largest library in the ancient world?",
+    "answer": "Alexandria",
+    "id": "jp_3388",
+    "metrics": {
+      "nll": 0.7755834460258484,
+      "ppl": 2.1718589200504814
+    }
+  },
+  {
+    "query": "Which cult film, starring Harrison Ford, was based on the story Do Androids Dream of Electric Sheep?",
+    "answer": "Blade Runner",
+    "id": "qz_685",
+    "metrics": {
+      "nll": 1.4167569875717163,
+      "ppl": 2.0306958017053565
+    }
+  },
+  {
+    "query": "What TV show featured the Holodeck?",
+    "answer": "Star Trek: The Next Generation",
+    "id": "jp_1852",
+    "metrics": {
+      "nll": 1.525161623954773,
+      "ppl": 1.2894214172383343
+    }
+  },
+  {
+    "query": "What is Africa's most populated country?",
+    "answer": "Nigeria",
+    "id": "qf_3347",
+    "metrics": {
+      "nll": 1.5992932319641113,
+      "ppl": 4.949533016177438
+    }
+  },
+  {
+    "query": "Which conflict began in England in 1455 after King Henry VI, following a troubled reign, had a long period of mental withdrawal?",
+    "answer": "The Wars of the Roses",
+    "id": "qw_3467",
+    "metrics": {
+      "nll": 3.1428098678588867,
+      "ppl": 1.8749124660734449
+    }
+  },
+  {
+    "query": "Who wrote/directed the movies The Hateful Eight and Inglourious Basterds?",
+    "answer": "Quentin Tarantino",
+    "id": "bb_6443",
+    "metrics": {
+      "nll": 0.3828393816947937,
+      "ppl": 1.136113386333754
+    }
+  },
+  {
+    "query": "The Fitzwilliam Museum is in which British town or city?",
+    "answer": "Cambridge",
+    "id": "sfq_6456",
+    "metrics": {
+      "nll": 1.6240705251693726,
+      "ppl": 5.0737009675088185
+    }
+  },
+  {
+    "query": "What mountain system in the USA stretches over 1500 miles south to Alabama, through which pass the Hudson and Mohawk Valleys?",
+    "answer": "The Appalachian Mountains",
+    "id": "qw_744",
+    "metrics": {
+      "nll": 3.28226375579834,
+      "ppl": 2.986457548426361
+    }
+  },
+  {
+    "query": "Christmas Island is administered by which country?",
+    "answer": "Australia",
+    "id": "qw_11772",
+    "metrics": {
+      "nll": 1.0779613256454468,
+      "ppl": 2.9386824235545195
+    }
+  },
+  {
+    "query": "Who co-starred with George Clooney in the 2013 movie Gravity?",
+    "answer": "Sandra Bullock",
+    "id": "dpql_6316",
+    "metrics": {
+      "nll": 2.041560649871826,
+      "ppl": 1.974904843377366
+    }
+  },
+  {
+    "query": "What is the more common term for the affliction called epistaxis the occurrence of which suggests sexual arousal in Japanese manga and anime?",
+    "answer": "Epistaxis",
+    "id": "tb_2001",
+    "metrics": {
+      "nll": 2.980323553085327,
+      "ppl": 2.7005114590855785
+    }
+  },
+  {
+    "query": "Australian Shane Warne is associated with which sport?",
+    "answer": "Cricket",
+    "id": "qw_4545",
+    "metrics": {
+      "nll": 0.9279488325119019,
+      "ppl": 2.529315802856006
+    }
+  },
+  {
+    "query": "Who was the founder of the 'Mormon Church'?",
+    "answer": "Joseph Smith",
+    "id": "odql_3223",
+    "metrics": {
+      "nll": 0.3991466462612152,
+      "ppl": 1.2208817250193502
+    }
+  },
+  {
+    "query": "Which group recorded the 90s albums 'Nevermind' and 'In Utero'?",
+    "answer": "Nirvana",
+    "id": "sfq_20405",
+    "metrics": {
+      "nll": 0.9004138708114624,
+      "ppl": 2.460621279773042
+    }
+  },
+  {
+    "query": "Name the pioneering Game Theory US mathematician featured in the film A Beautiful Mind?",
+    "answer": "John Nash",
+    "id": "bb_5713",
+    "metrics": {
+      "nll": 2.0858030319213867,
+      "ppl": 2.8374379535005096
+    }
+  },
+  {
+    "query": "With what group are Bobby Seale and Huey P. Newton associated?",
+    "answer": "The Black Panther Party",
+    "id": "qw_7917",
+    "metrics": {
+      "nll": 3.7510221004486084,
+      "ppl": 2.554242047668554
+    }
+  },
+  {
+    "query": "Which capital city is known as Beograd by its inhabitants?",
+    "answer": "Beograd",
+    "id": "odql_10039",
+    "metrics": {
+      "nll": 1.1656978130340576,
+      "ppl": 1.4748642293812804
+    }
+  },
+  {
+    "query": "Which US state is the least populated?",
+    "answer": "Wyoming",
+    "id": "sfq_16509",
+    "metrics": {
+      "nll": 2.582552671432495,
+      "ppl": 13.230869150981883
+    }
+  },
+  {
+    "query": "What is the more common name for the disease variola?",
+    "answer": "Variola",
+    "id": "sfq_9070",
+    "metrics": {
+      "nll": 1.097383975982666,
+      "ppl": 1.7309873841670318
+    }
+  },
+  {
+    "query": "What is the name of CS Lewis' 7 book fantasy?",
+    "answer": "The Chronicles of Narnia",
+    "id": "qz_3236",
+    "metrics": {
+      "nll": 2.022831916809082,
+      "ppl": 1.400933293598858
+    }
+  },
+  {
+    "query": "Which is the highest mountain in North America?",
+    "answer": "Mount McKinley",
+    "id": "dpql_151",
+    "metrics": {
+      "nll": 1.9079866409301758,
+      "ppl": 1.8889016960839051
+    }
+  },
+  {
+    "query": "Which Puccini opera begins with 'Rodolfo' finishing writing an article while his friends go drinking?",
+    "answer": "La Bohème",
+    "id": "odql_5225",
+    "metrics": {
+      "nll": 3.201338768005371,
+      "ppl": 2.2262859239049435
+    }
+  },
+  {
+    "query": "What celestial object was visited by the New Horizons spacecraft in 2015?",
+    "answer": "Pluto",
+    "id": "jp_1420",
+    "metrics": {
+      "nll": 1.039792537689209,
+      "ppl": 2.8286301193334364
+    }
+  },
+  {
+    "query": "Published on Feb 21, 1848, which two authors were responsible for the Communist Manifesto?",
+    "answer": "Karl Marx and Friedrich Engels",
+    "id": "qg_607",
+    "metrics": {
+      "nll": 1.2984225749969482,
+      "ppl": 1.2965209892120368
+    }
+  },
+  {
+    "query": "What was the name of the American President played by Martin Sheen in the TV series 'The West Wing'?",
+    "answer": "President Bartlet",
+    "id": "odql_3569",
+    "metrics": {
+      "nll": 3.998905897140503,
+      "ppl": 3.792284592647111
+    }
+  },
+  {
+    "query": "What is the capital city of Saudi Arabia?",
+    "answer": "Riyadh",
+    "id": "sfq_24275",
+    "metrics": {
+      "nll": 0.32477420568466187,
+      "ppl": 1.3837181750070475
+    }
+  },
+  {
+    "query": "The Luas Tram system serves which European capital city?",
+    "answer": "Dublin",
+    "id": "odql_12146",
+    "metrics": {
+      "nll": 0.5179851055145264,
+      "ppl": 1.6786419535188126
+    }
+  },
+  {
+    "query": "Yukio Hatoyama was sworn in as the sixtieth prime minister of which country?",
+    "answer": "Japan",
+    "id": "bb_8736",
+    "metrics": {
+      "nll": 1.5946578979492188,
+      "ppl": 4.926643368994316
+    }
+  },
+  {
+    "query": "What king was forced to agree to the Magna Carta?",
+    "answer": "King John",
+    "id": "jp_3423",
+    "metrics": {
+      "nll": 1.4129027128219604,
+      "ppl": 2.0267861403661214
+    }
+  },
+  {
+    "query": "What is the principal language of Bulgaria?",
+    "answer": "Bulgarian",
+    "id": "tc_2499",
+    "metrics": {
+      "nll": 0.15405124425888062,
+      "ppl": 1.166550664271037
+    }
+  },
+  {
+    "query": "In which city are the baseball team the Dodgers based?",
+    "answer": "Los Angeles",
+    "id": "sfq_13921",
+    "metrics": {
+      "nll": 0.4159322679042816,
+      "ppl": 1.2311714739307797
+    }
+  },
+  {
+    "query": "David Stern was the commissioner of what organization?",
+    "answer": "The NBA",
+    "id": "jp_2057",
+    "metrics": {
+      "nll": 1.3104909658432007,
+      "ppl": 1.9256151649971112
+    }
+  },
+  {
+    "query": "The naval base Pearl Harbour is in which US state?",
+    "answer": "Hawaii",
+    "id": "qw_3962",
+    "metrics": {
+      "nll": 0.872750461101532,
+      "ppl": 2.3934849957965496
+    }
+  },
+  {
+    "query": "Launched from the desert steppes of Kazakhstan, Vostok 1 was launched on April 12, 1961, carrying which man, the first in outer space?",
+    "answer": "Yuri Gagarin",
+    "id": "qg_984",
+    "metrics": {
+      "nll": 0.7592389583587646,
+      "ppl": 1.209019547218075
+    }
+  },
+  {
+    "query": "Who was the third President of the USA, following on from George Washington and John Adams was also famed for his numerous inventions?",
+    "answer": "Thomas Jefferson",
+    "id": "qz_5674",
+    "metrics": {
+      "nll": 1.4506556987762451,
+      "ppl": 2.065408131770415
+    }
+  },
+  {
+    "query": "Shirley Temple served as US Ambassador to which African country from 1974 – 1976?",
+    "answer": "Ghana",
+    "id": "sfq_25968",
+    "metrics": {
+      "nll": 2.3117892742156982,
+      "ppl": 10.092466699555876
+    }
+  },
+  {
+    "query": "Which French Canadian became Prime Minister of Canada in 1968?",
+    "answer": "Pierre Trudeau",
+    "id": "sfq_17324",
+    "metrics": {
+      "nll": 1.1294130086898804,
+      "ppl": 1.7589314682140202
+    }
+  },
+  {
+    "query": "Which US state is known as the Palmetto State?",
+    "answer": "South Carolina",
+    "id": "sfq_5918",
+    "metrics": {
+      "nll": 1.1749271154403687,
+      "ppl": 1.7994185010208248
+    }
+  },
+  {
+    "query": "What US TV sitcom that ran for 7 years to 19 March 1977 was the first to have an independent career woman, Mary Richards, as the central character?",
+    "answer": "The Mary Tyler Moore Show",
+    "id": "qw_746",
+    "metrics": {
+      "nll": 2.5553102493286133,
+      "ppl": 1.667060756750975
+    }
+  },
+  {
+    "query": "Which is the largest city in Pakistan?",
+    "answer": "Karachi",
+    "id": "odql_14992",
+    "metrics": {
+      "nll": 0.7466808557510376,
+      "ppl": 2.1099850364881205
+    }
+  },
+  {
+    "query": "Which country occupying 47% of South America has states including Amazonas, Sao Paulo, Bahia and Para?",
+    "answer": "Brazil",
+    "id": "bb_6707",
+    "metrics": {
+      "nll": 1.141977071762085,
+      "ppl": 3.1329563256328465
+    }
+  },
+  {
+    "query": "What video game series features an archaeologist named Lara Croft?",
+    "answer": "Tomb Raider",
+    "id": "jp_2212",
+    "metrics": {
+      "nll": 0.5321757793426514,
+      "ppl": 1.3048497364618252
+    }
+  },
+  {
+    "query": "The highest 'need' in Maslow's original 'Hierarchy of Needs' theory is?",
+    "answer": "Self-actualization",
+    "id": "bb_6668",
+    "metrics": {
+      "nll": 2.190178155899048,
+      "ppl": 1.7290023035026036
+    }
+  },
+  {
+    "query": "In the Crimean War, what did Florence Nightingale begin to be called?",
+    "answer": "Florence Nightingale",
+    "id": "qw_750",
+    "metrics": {
+      "nll": 0.8369297981262207,
+      "ppl": 1.2327315130916285
+    }
+  },
+  {
+    "query": "Which writer and politician became Lord Tweedsmuir?",
+    "answer": "Lord Tweedsmuir",
+    "id": "tc_2359",
+    "metrics": {
+      "nll": 2.4391889572143555,
+      "ppl": 1.6287906247662505
+    }
+  },
+  {
+    "query": "Michelangelo Merisi (or Amerighi) is the birth name of which artist?",
+    "answer": "Michelangelo Merisi",
+    "id": "sfq_22957",
+    "metrics": {
+      "nll": 1.2954299449920654,
+      "ppl": 1.3824502749043055
+    }
+  },
+  {
+    "query": "Name Adele's record-breaking 2015 album?",
+    "answer": "25",
+    "id": "bb_6314",
+    "metrics": {
+      "nll": 1.8352807760238647,
+      "ppl": 6.266893491869639
+    }
+  },
+  {
+    "query": "What is the English name of the city of Firenze?",
+    "answer": "Firenze",
+    "id": "jp_1437",
+    "metrics": {
+      "nll": 0.5137730836868286,
+      "ppl": 1.1867965406346515
+    }
+  },
+  {
+    "query": "What U.S. state borders four Great Lakes?",
+    "answer": "Michigan",
+    "id": "jp_2411",
+    "metrics": {
+      "nll": 0.9660390615463257,
+      "ppl": 2.6275163898111225
+    }
+  },
+  {
+    "query": "What is the common name of the flowering plant Kniphofia?",
+    "answer": "Kniphofia",
+    "id": "sfq_9341",
+    "metrics": {
+      "nll": 0.5460481643676758,
+      "ppl": 1.14626868001921
+    }
+  },
+  {
+    "query": "Which year saw the assassination of US President James Garfield?",
+    "answer": "1881",
+    "id": "sfq_1864",
+    "metrics": {
+      "nll": 0.8762826919555664,
+      "ppl": 1.5498239533205895
+    }
+  },
+  {
+    "query": "On June 4th 1979, Joe Clark became the 16th and youngest Prime Minister of which country?",
+    "answer": "Canada",
+    "id": "qb_6073",
+    "metrics": {
+      "nll": 1.6895883083343506,
+      "ppl": 5.417250009303703
+    }
+  },
+  {
+    "query": "Toussaint Louverture was the founding father of what country?",
+    "answer": "Haiti",
+    "id": "jp_2647",
+    "metrics": {
+      "nll": 0.6796385645866394,
+      "ppl": 1.9731644318301533
+    }
+  },
+  {
+    "query": "In humans, otalgia, is the medical term for what?",
+    "answer": "Otalgia",
+    "id": "qb_189",
+    "metrics": {
+      "nll": 1.1903953552246094,
+      "ppl": 1.813389376014121
+    }
+  },
+  {
+    "query": "What was the name of the oil company was founded by John D. Rockefeller in 1870?",
+    "answer": "Standard",
+    "id": "qg_3921",
+    "metrics": {
+      "nll": 0.4713956117630005,
+      "ppl": 1.6022287228393708
+    }
+  },
+  {
+    "query": "Richard Daley was mayor of which city for 21 years?",
+    "answer": "Chicago",
+    "id": "tc_731",
+    "metrics": {
+      "nll": 0.3393802046775818,
+      "ppl": 1.4040770804156455
+    }
+  },
+  {
+    "query": "Charlotte of Mecklenburg-Strelitz was the wife of which King of Great Britain?",
+    "answer": "King George III",
+    "id": "sfq_18532",
+    "metrics": {
+      "nll": 4.3126444816589355,
+      "ppl": 4.210360024528223
+    }
+  },
+  {
+    "query": "Whom was Ronald Reagan referring to when he uttered the famous phrase \"evil empire\" in a 1983 speech?",
+    "answer": "The Soviet",
+    "id": "qg_1341",
+    "metrics": {
+      "nll": 1.9725217819213867,
+      "ppl": 2.681190442769779
+    }
+  },
+  {
+    "query": "What is the capital city of Croatia?",
+    "answer": "Zagreb",
+    "id": "odql_416",
+    "metrics": {
+      "nll": 0.1531239002943039,
+      "ppl": 1.0523663552194158
+    }
+  },
+  {
+    "query": "In Greek mythology, Amphitrite, queen of the sea, was the wife of which god?",
+    "answer": "Poseidon",
+    "id": "qb_1456",
+    "metrics": {
+      "nll": 1.6903364658355713,
+      "ppl": 2.3283694900159477
+    }
+  },
+  {
+    "query": "Which Czech tennis player knocked out Andy Murray in the fourth round of the Men's Singles at the French Open?",
+    "answer": "Tomas Berdych",
+    "id": "odql_6075",
+    "metrics": {
+      "nll": 2.2427966594696045,
+      "ppl": 1.7518969369943156
+    }
+  },
+  {
+    "query": "Which is the largest city in Scandinavia by population ?",
+    "answer": "Stockholm",
+    "id": "wh_2290",
+    "metrics": {
+      "nll": 1.7516295909881592,
+      "ppl": 5.763987969685047
+    }
+  },
+  {
+    "query": "What is the capital of the US state of Georgia?",
+    "answer": "Atlanta",
+    "id": "odql_8358",
+    "metrics": {
+      "nll": 1.6084693670272827,
+      "ppl": 4.995159617409463
+    }
+  },
+  {
+    "query": "Saloth Sar was the real name of which infamous dictator?",
+    "answer": "Saloth Sar",
+    "id": "dpql_633",
+    "metrics": {
+      "nll": 0.9405574202537537,
+      "ppl": 1.368231650580708
+    }
+  },
+  {
+    "query": "Kim Campbell was the first woman prime minister of which country",
+    "answer": "Canada",
+    "id": "bt_1029",
+    "metrics": {
+      "nll": 1.6600861549377441,
+      "ppl": 5.259763979564913
+    }
+  },
+  {
+    "query": "What is the name of the drag queen persona of Thomas Neuwirth, who won in 2014?",
+    "answer": "Thomas Neuwirth",
+    "id": "dpql_2914",
+    "metrics": {
+      "nll": 2.2122011184692383,
+      "ppl": 1.5565007981645667
+    }
+  },
+  {
+    "query": "An analgesic drug is commonly called a?",
+    "answer": "Analgesic",
+    "id": "bb_2826",
+    "metrics": {
+      "nll": 1.6952793598175049,
+      "ppl": 1.527786322934754
+    }
+  },
+  {
+    "query": "What major American city is located on Puget Sound?",
+    "answer": "Seattle",
+    "id": "jp_3723",
+    "metrics": {
+      "nll": 0.698600172996521,
+      "ppl": 2.0109357741219
+    }
+  },
+  {
+    "query": "Sanskrit is an ancient language of which modern day country?",
+    "answer": "India",
+    "id": "dpql_6276",
+    "metrics": {
+      "nll": 0.5801209807395935,
+      "ppl": 1.7862545200714273
+    }
+  },
+  {
+    "query": "Who was the only female prime minister of the United Kingdom?",
+    "answer": "Margaret Thatcher",
+    "id": "jp_2992",
+    "metrics": {
+      "nll": 0.9339172840118408,
+      "ppl": 1.5951354304510663
+    }
+  },
+  {
+    "query": "With which pop group is Lou Reed associated?",
+    "answer": "The Velvet Underground",
+    "id": "sfq_16531",
+    "metrics": {
+      "nll": 2.26957106590271,
+      "ppl": 2.130855811866602
+    }
+  },
+  {
+    "query": "Which philosopher wrote 'Thus Spoke Zarathustra' between 1883 and 1885?",
+    "answer": "Friedrich Nietzsche",
+    "id": "sfq_6043",
+    "metrics": {
+      "nll": 0.8012875914573669,
+      "ppl": 1.4927854372363967
+    }
+  },
+  {
+    "query": "Eric Cartman is a character in which cartoon series?",
+    "answer": "South Park",
+    "id": "bb_7278",
+    "metrics": {
+      "nll": 1.393481731414795,
+      "ppl": 2.0072003003520553
+    }
+  },
+  {
+    "query": "The peaceful overthrow of the government in Czechoslovakia in 1989 was known as what?",
+    "answer": "The Velvet Revolution",
+    "id": "qw_2399",
+    "metrics": {
+      "nll": 1.1316832304000854,
+      "ppl": 1.4582363753642469
+    }
+  },
+  {
+    "query": "Which Indian born author who lived from 1903 to 1950 had the real name Eric Arthur Blair ?",
+    "answer": "Eric Arthur Blair",
+    "id": "wh_3858",
+    "metrics": {
+      "nll": 2.180241107940674,
+      "ppl": 2.0683414122420762
+    }
+  },
+  {
+    "query": "In medicine, Daltonism (or deuteranopia) is better known by what name?",
+    "answer": "Daltonism",
+    "id": "qb_7919",
+    "metrics": {
+      "nll": 1.35294771194458,
+      "ppl": 1.9669298119363618
+    }
+  },
+  {
+    "query": "The Mossad is the intelligence agency of what country?",
+    "answer": "Israel",
+    "id": "jp_927",
+    "metrics": {
+      "nll": 0.3874119222164154,
+      "ppl": 1.4731631949556014
+    }
+  },
+  {
+    "query": "The inaugural issue of what comic book, which was released in June, 1938, introduced Superman?",
+    "answer": "Action Comics",
+    "id": "qg_1800",
+    "metrics": {
+      "nll": 1.084910273551941,
+      "ppl": 1.7202250697594592
+    }
+  },
+  {
+    "query": "September 23, 1939 saw the death of what famed neurologist, best known for founding the field of psychoanalysis?",
+    "answer": "Sigmund Freud",
+    "id": "qg_3341",
+    "metrics": {
+      "nll": 1.519906759262085,
+      "ppl": 1.4622505037079583
+    }
+  },
+  {
+    "query": "What is Mexico's most commonly used language?",
+    "answer": "Spanish",
+    "id": "bb_4422",
+    "metrics": {
+      "nll": 0.34246164560317993,
+      "ppl": 1.4084103338974558
+    }
+  },
+  {
+    "query": "The Oroville Dam is in which US state?",
+    "answer": "California",
+    "id": "qb_1438",
+    "metrics": {
+      "nll": 0.8325623273849487,
+      "ppl": 2.299202508525883
+    }
+  },
+  {
+    "query": "What is the more common name for the white crystalline salt called hydrated sodium pyroborate?",
+    "answer": "Sodium pyroborate",
+    "id": "qw_3281",
+    "metrics": {
+      "nll": 1.5610768795013428,
+      "ppl": 1.3664489615144295
+    }
+  },
+  {
+    "query": "What is the name of the group of 1,196 islands in the North Indian Ocean, none bigger than five square miles?",
+    "answer": "The Maldives",
+    "id": "tc_2457",
+    "metrics": {
+      "nll": 3.3939552307128906,
+      "ppl": 3.0997405369730835
+    }
+  },
+  {
+    "query": "What is Harrison Ford's real name?",
+    "answer": "Harrison Ford",
+    "id": "tc_1421",
+    "metrics": {
+      "nll": 2.269186019897461,
+      "ppl": 3.109907583859235
+    }
+  },
+  {
+    "query": "Which US State is nicknamed The Beaver State?",
+    "answer": "The Beaver State",
+    "id": "sfq_21214",
+    "metrics": {
+      "nll": 3.248042583465576,
+      "ppl": 2.9525844192811643
+    }
+  },
+  {
+    "query": "Raph Koster, Brad McQuaid, Mark Jacobs, Brian Green and J. Todd Coleman are influential in MMORPG design. What is MMORPG?",
+    "answer": "MMORPG",
+    "id": "qw_9245",
+    "metrics": {
+      "nll": 1.1632307767868042,
+      "ppl": 1.788925908072052
+    }
+  },
+  {
+    "query": "Cristina Fernandez de Kirchner became President of which South American country in December 2007?",
+    "answer": "Argentina",
+    "id": "qb_203",
+    "metrics": {
+      "nll": 0.741794764995575,
+      "ppl": 2.0997006039034303
+    }
+  },
+  {
+    "query": "Of the 26 times that the 100 metres has been included in the Olympic Games to 2008, which country has won the most gold medals (16)?",
+    "answer": "The United States",
+    "id": "qw_6212",
+    "metrics": {
+      "nll": 2.75150465965271,
+      "ppl": 2.5021946827882977
+    }
+  },
+  {
+    "query": "The US team Miami Heat play which sport?",
+    "answer": "Basketball",
+    "id": "qb_7085",
+    "metrics": {
+      "nll": 0.7356759905815125,
+      "ppl": 2.0868922352915935
+    }
+  },
+  {
+    "query": "The main feature of the human illness diabetes is the body's inability to produce what hormone?",
+    "answer": "Insulin",
+    "id": "bb_2858",
+    "metrics": {
+      "nll": 0.5488316416740417,
+      "ppl": 1.3157618096793178
+    }
+  },
+  {
+    "query": "Which man, according to the Holy Bible, fathered Ishmael by sleeping with his wife's servant, Hagar?",
+    "answer": "Abraham",
+    "id": "sfq_24916",
+    "metrics": {
+      "nll": 0.6860493421554565,
+      "ppl": 1.9858545835175112
+    }
+  },
+  {
+    "query": "What cereal company, founded in 1906, has its headquarters in Battle Creek, MI?",
+    "answer": "Kellogg's",
+    "id": "qg_3117",
+    "metrics": {
+      "nll": 1.1288083791732788,
+      "ppl": 1.4568396404943953
+    }
+  },
+  {
+    "query": "Michael J Fox starred as Marty McFly in which series of films?",
+    "answer": "Back to the Future",
+    "id": "qf_2020",
+    "metrics": {
+      "nll": 1.49949049949646,
+      "ppl": 1.4548060967062995
+    }
+  },
+  {
+    "query": "Willis-Ekbom disease is more commonly known as?",
+    "answer": "Willis-Ekbom disease",
+    "id": "bb_2920",
+    "metrics": {
+      "nll": 3.556995391845703,
+      "ppl": 1.8091055743206468
+    }
+  },
+  {
+    "query": "What was the name of the World War I fighter ace nicknamed the Red Baron?",
+    "answer": "The Red Baron",
+    "id": "qz_5801",
+    "metrics": {
+      "nll": 3.2733092308044434,
+      "ppl": 2.977556735872561
+    }
+  },
+  {
+    "query": "Coleopterology is the study of which insects?",
+    "answer": "Coleoptera",
+    "id": "qb_3577",
+    "metrics": {
+      "nll": 2.945894718170166,
+      "ppl": 2.669696795048252
+    }
+  },
+  {
+    "query": "What is the capital of the province of Manitoba, Canada?",
+    "answer": "Winnipeg",
+    "id": "qw_3390",
+    "metrics": {
+      "nll": 0.6114581823348999,
+      "ppl": 1.8431170409380386
+    }
+  },
+  {
+    "query": "An encephalogram is an X-Ray photograph of which part of the human body?",
+    "answer": "The brain",
+    "id": "sfq_1385",
+    "metrics": {
+      "nll": 2.842372417449951,
+      "ppl": 4.142030840417872
+    }
+  },
+  {
+    "query": "In which country did Juan Domingo Peron seize power in 1943, become president, and resign in 1955?",
+    "answer": "Argentina",
+    "id": "qw_257",
+    "metrics": {
+      "nll": 0.7783775329589844,
+      "ppl": 2.1779357683473637
+    }
+  },
+  {
+    "query": "On 6 February 1840, what document was signed by Captain William Hobson (on behalf of Queen Victoria) and a number of Maori chiefs as the basis for New Zealand to become part of the British Empire?",
+    "answer": "The Treaty of Waitangi",
+    "id": "qw_574",
+    "metrics": {
+      "nll": 1.9033143520355225,
+      "ppl": 1.3733033729916617
+    }
+  },
+  {
+    "query": "Who was the faithless wife of King Menelaus of Sparta?",
+    "answer": "Helen of Troy",
+    "id": "dpql_2367",
+    "metrics": {
+      "nll": 2.3947079181671143,
+      "ppl": 2.221618474262412
+    }
+  },
+  {
+    "query": "What name was given to the English Civil war in the 15th century between the rival houses of Lancaster and York?",
+    "answer": "The War of the Roses",
+    "id": "qw_6374",
+    "metrics": {
+      "nll": 3.21376895904541,
+      "ppl": 1.9017105902791822
+    }
+  },
+  {
+    "query": "The Fitzwilliam Museum is in which English city?",
+    "answer": "Cambridge",
+    "id": "qb_4021",
+    "metrics": {
+      "nll": 0.9313399195671082,
+      "ppl": 2.537907492283678
+    }
+  },
+  {
+    "query": "The Naismith Award is presented in which sport?",
+    "answer": "Basketball",
+    "id": "tc_1535",
+    "metrics": {
+      "nll": 0.3842930793762207,
+      "ppl": 1.4685757878919579
+    }
+  },
+  {
+    "query": "Which river runs through Hamburg?",
+    "answer": "The Elbe",
+    "id": "sfq_4438",
+    "metrics": {
+      "nll": 1.823183298110962,
+      "ppl": 1.8362542555712984
+    }
+  },
+  {
+    "query": "What is the climate change agreement aimed at stabilizing greenhouse gas levels in the atmosphere, named after the Japanese city in which participating nations agreed its framework in 1997?",
+    "answer": "The Kyoto Protocol",
+    "id": "bb_1886",
+    "metrics": {
+      "nll": 2.623626947402954,
+      "ppl": 2.3977776178633063
+    }
+  },
+  {
+    "query": "Founded in 1775, George Washington was the Commander-in-Chief of what Army?",
+    "answer": "The Continental Army",
+    "id": "qg_1049",
+    "metrics": {
+      "nll": 0.8186084628105164,
+      "ppl": 1.313728775744696
+    }
+  },
+  {
+    "query": "Who was ousted as Panama's leader after a 1989 US invasion ordered by President George H.W. Bush, was convicted of drug racketeering and related charges in 1992, and was extradited to France at the end of April 2010 on charges of laundering around US$3 million in drug proceeds by buying luxury apartments in Paris?",
+    "answer": "Manuel Noriega",
+    "id": "qw_6743",
+    "metrics": {
+      "nll": 0.8520981669425964,
+      "ppl": 1.2374150191832471
+    }
+  },
+  {
+    "query": "St John's is the capital of which Canadian Province?",
+    "answer": "Newfoundland",
+    "id": "sfq_20231",
+    "metrics": {
+      "nll": 2.130021095275879,
+      "ppl": 8.415044327249367
+    }
+  },
+  {
+    "query": "What is the more correct term for the sport of archery?",
+    "answer": "Archer",
+    "id": "dpql_4010",
+    "metrics": {
+      "nll": 0.9764509201049805,
+      "ppl": 2.6550166347185247
+    }
+  },
+  {
+    "query": "What is the official language of the People's Republic of Bangladesh?",
+    "answer": "Bengali",
+    "id": "qw_14685",
+    "metrics": {
+      "nll": 0.552018404006958,
+      "ppl": 1.3178599909237287
+    }
+  },
+  {
+    "query": "Which Championship Football League club is based at the King Power Stadium?",
+    "answer": "Leicester City",
+    "id": "sfq_13137",
+    "metrics": {
+      "nll": 2.460702896118164,
+      "ppl": 3.422432132082477
+    }
+  },
+  {
+    "query": "Turkey's internet country TLD (Top Level Domain) code is?",
+    "answer": ".tr",
+    "id": "bb_4464",
+    "metrics": {
+      "nll": 2.24139404296875,
+      "ppl": 3.0669912172049583
+    }
+  },
+  {
+    "query": "What is the medical term for high blood pressure?",
+    "answer": "Hypertension",
+    "id": "qb_4391",
+    "metrics": {
+      "nll": 0.5975029468536377,
+      "ppl": 1.2203865452750238
+    }
+  },
+  {
+    "query": "In 1610, who became the first person to observe Saturn’s rings through a telescope?",
+    "answer": "Galileo",
+    "id": "qb_4699",
+    "metrics": {
+      "nll": 1.6588090658187866,
+      "ppl": 5.253051079616437
+    }
+  },
+  {
+    "query": "Nigel Farage is the leader of which political party?",
+    "answer": "UKIP",
+    "id": "sfq_6038",
+    "metrics": {
+      "nll": 0.8473085761070251,
+      "ppl": 2.3333583368135487
+    }
+  },
+  {
+    "query": "What noted film director and producer, born on May 14, 1944, founded the theatre audio company THX, and the visual effects company Industrial Light and Magic, among others?",
+    "answer": "George Lucas",
+    "id": "qg_1358",
+    "metrics": {
+      "nll": 2.5823893547058105,
+      "ppl": 3.637129157066127
+    }
+  },
+  {
+    "query": "In which country was Saddam Hussein President 1979-2003, being deposed and then hanged in 2006?",
+    "answer": "Iraq",
+    "id": "qw_16558",
+    "metrics": {
+      "nll": 0.5055891275405884,
+      "ppl": 1.6579619838678112
+    }
+  },
+  {
+    "query": "Which planet in our solar system has the shortest year?",
+    "answer": "Mercury",
+    "id": "bb_1357",
+    "metrics": {
+      "nll": 1.5576375722885132,
+      "ppl": 4.747592143147715
+    }
+  },
+  {
+    "query": "Which American singer was born Eleanora Fagan?",
+    "answer": "Eleanora Fagan",
+    "id": "qz_4308",
+    "metrics": {
+      "nll": 1.5086162090301514,
+      "ppl": 1.352186946102146
+    }
+  },
+  {
+    "query": "What is the common name for the species of large cattle, Bos primigenius, once prevalent in Europe, that was hunted to extinction in 1627?",
+    "answer": "Bos primigenius",
+    "id": "odql_13017",
+    "metrics": {
+      "nll": 2.131014347076416,
+      "ppl": 1.7036169129173915
+    }
+  },
+  {
+    "query": "In which year was the storming of the Bastille, which started the French Revolution?",
+    "answer": "1789",
+    "id": "qb_1175",
+    "metrics": {
+      "nll": 1.2772951126098633,
+      "ppl": 1.8939177293456078
+    }
+  },
+  {
+    "query": "Who did Friedrich Engels famously work with?",
+    "answer": "Karl Marx",
+    "id": "jp_3913",
+    "metrics": {
+      "nll": 1.4147014617919922,
+      "ppl": 2.0286098000609236
+    }
+  },
+  {
+    "query": "What country, after having governed it for 155 years, transferred its sovereignty of Hong Kong to China in 1997?",
+    "answer": "The United Kingdom",
+    "id": "qw_13369",
+    "metrics": {
+      "nll": 2.4994144439697266,
+      "ppl": 2.3005268179510034
+    }
+  },
+  {
+    "query": "Who wrote the 19th century novel ‘Anna Karenina’?",
+    "answer": "Tolstoy",
+    "id": "dpql_454",
+    "metrics": {
+      "nll": 2.047973394393921,
+      "ppl": 1.9791308785875799
+    }
+  },
+  {
+    "query": "Ascorbic acid is usually known as what?",
+    "answer": "Ascorb",
+    "id": "qf_2191",
+    "metrics": {
+      "nll": 0.22009865939617157,
+      "ppl": 1.0761245628810647
+    }
+  },
+  {
+    "query": "What country connected the ironically named Bushehr plant, the first nuclear power station in the Middle East, to its national grid in Sep 2011?",
+    "answer": "Iran",
+    "id": "bb_2127",
+    "metrics": {
+      "nll": 0.5483397245407104,
+      "ppl": 1.7303777279642043
+    }
+  },
+  {
+    "query": "Which city was the capital of Italy from 1865 to 1871?",
+    "answer": "Florence",
+    "id": "qw_1503",
+    "metrics": {
+      "nll": 1.4421632289886475,
+      "ppl": 4.22983603116392
+    }
+  },
+  {
+    "query": "What was the central meeting place of ancient Rome?",
+    "answer": "The Forum",
+    "id": "jp_1658",
+    "metrics": {
+      "nll": 1.8262351751327515,
+      "ppl": 2.492079711984646
+    }
+  },
+  {
+    "query": "South Pacific was set during which war?",
+    "answer": "World War II",
+    "id": "tc_1977",
+    "metrics": {
+      "nll": 1.5992581844329834,
+      "ppl": 1.7041834166228653
+    }
+  },
+  {
+    "query": "True or false a bird had more neck bones than a giraffe",
+    "answer": "True",
+    "id": "bt_1014",
+    "metrics": {
+      "nll": 0.6144220232963562,
+      "ppl": 1.8485878500199608
+    }
+  },
+  {
+    "query": "Located in North Carolina, which is both the highest mountain in the Appalachians and the highest mountain east of the Mississippi?",
+    "answer": "Mount Mitchell",
+    "id": "odql_14141",
+    "metrics": {
+      "nll": 1.5902808904647827,
+      "ppl": 2.2147520263252827
+    }
+  },
+  {
+    "query": "Which American singer-songwriter wrote 'Sweet Baby James', the title track of his second album in 1970?",
+    "answer": "James Taylor",
+    "id": "sfq_15064",
+    "metrics": {
+      "nll": 2.9387316703796387,
+      "ppl": 4.346477883555326
+    }
+  },
+  {
+    "query": "The result of a tryst with the wife of his bitter enemy, what legendary English ruler is the bastard son of Igraine and Uther Pendragon?",
+    "answer": "King Arthur",
+    "id": "qg_1687",
+    "metrics": {
+      "nll": 2.3425869941711426,
+      "ppl": 3.2261629731925745
+    }
+  },
+  {
+    "query": "By what name is comic book villain Oswald Chesterfield Cobblepot better known?",
+    "answer": "Oswald Chesterfield Cobblepot",
+    "id": "qz_2564",
+    "metrics": {
+      "nll": 3.0910849571228027,
+      "ppl": 1.673941166830507
+    }
+  },
+  {
+    "query": "As what is the medical condition pertussis more commonly known?",
+    "answer": "Pertussis",
+    "id": "sfq_8009",
+    "metrics": {
+      "nll": 0.7187296152114868,
+      "ppl": 1.1968371918138232
+    }
+  },
+  {
+    "query": "Who is said to have gained enlightenment sitting under the Bodhi Tree?",
+    "answer": "The Buddha",
+    "id": "jp_3850",
+    "metrics": {
+      "nll": 1.8855206966400146,
+      "ppl": 2.5670576206350737
+    }
+  },
+  {
+    "query": "Josiah Bartlet was a central character in which U.S. TV drama series?",
+    "answer": "The West Wing",
+    "id": "sfq_23493",
+    "metrics": {
+      "nll": 1.558234691619873,
+      "ppl": 1.6810381750135568
+    }
+  },
+  {
+    "query": "Which river flows through Cologne?",
+    "answer": "The Rhine",
+    "id": "qw_10429",
+    "metrics": {
+      "nll": 0.9210000038146973,
+      "ppl": 1.3593409698004721
+    }
+  },
+  {
+    "query": "Which singer's real name is Elaine Bookbinder?",
+    "answer": "Elaine Bookbinder",
+    "id": "odql_4851",
+    "metrics": {
+      "nll": 2.4411449432373047,
+      "ppl": 1.840958271553907
+    }
+  },
+  {
+    "query": "The Gulf of Carpentaria is an inlet on the north coast of which country?",
+    "answer": "Australia",
+    "id": "sfq_26014",
+    "metrics": {
+      "nll": 0.9029607772827148,
+      "ppl": 2.4668962395095786
+    }
+  },
+  {
+    "query": "Which TV network is based in Doha, Qatar?",
+    "answer": "Al Jazeera",
+    "id": "sfq_22978",
+    "metrics": {
+      "nll": 1.4473366737365723,
+      "ppl": 2.061983403592784
+    }
+  },
+  {
+    "query": "The Salt Flat of Uyuni, the world's largest salt flat, is in which country?",
+    "answer": "Bolivia",
+    "id": "qw_15164",
+    "metrics": {
+      "nll": 0.9360685348510742,
+      "ppl": 2.5499366987715937
+    }
+  },
+  {
+    "query": "Which French chemist produced the first vaccine against Anthrax?",
+    "answer": "Louis Pasteur",
+    "id": "odql_15015",
+    "metrics": {
+      "nll": 2.713500499725342,
+      "ppl": 2.4706966775924872
+    }
+  },
+  {
+    "query": "Which German philosopher wrote ‘Das Kapital’?",
+    "answer": "Karl Marx",
+    "id": "qb_5345",
+    "metrics": {
+      "nll": 0.34701022505760193,
+      "ppl": 1.1894667679371722
+    }
+  },
+  {
+    "query": "What is the correct title of the 1967 hit by Keith West that is often called Grocer Jack?",
+    "answer": "Grocer Jack",
+    "id": "wh_658",
+    "metrics": {
+      "nll": 2.070925235748291,
+      "ppl": 1.9943305136996181
+    }
+  },
+  {
+    "query": "Who is Vincent Furnier better know as?",
+    "answer": "Vincent Furnier",
+    "id": "qf_183",
+    "metrics": {
+      "nll": 1.4740338325500488,
+      "ppl": 1.6345125263131617
+    }
+  },
+  {
+    "query": "Canadian Florence Nightingale Graham dropped out of nursing school in Toronto and joined her elder brother in New York City, working as a bookkeeper for the E.R. Squibb Pharmaceuticals Company. By what name is she better known?",
+    "answer": "Florence Nightingale Graham",
+    "id": "qw_5512",
+    "metrics": {
+      "nll": 2.763610601425171,
+      "ppl": 1.737977568546664
+    }
+  },
+  {
+    "query": "Arturo Frondizi became president of which South American country in May 1958?",
+    "answer": "Argentina",
+    "id": "qb_5898",
+    "metrics": {
+      "nll": 1.6043574810028076,
+      "ppl": 4.974662260666077
+    }
+  },
+  {
+    "query": "Born 'Lucille LeSueur' , By what name is this actress better known?",
+    "answer": "Lucille LeSueur",
+    "id": "qf_1348",
+    "metrics": {
+      "nll": 2.2977328300476074,
+      "ppl": 1.4666127228058428
+    }
+  },
+  {
+    "query": "The infamous drug cartel run by Pablo Escobar through the 1970s and 1980s takes its name from which Columbian city?",
+    "answer": "Medellin",
+    "id": "tb_902",
+    "metrics": {
+      "nll": 1.7272264957427979,
+      "ppl": 1.778449940982634
+    }
+  },
+  {
+    "query": "The Sandinista National Liberation Front ruled from 1979 to 1990, initially as part of a Junta of National Reconstruction, in which country?",
+    "answer": "Nicaragua",
+    "id": "qw_605",
+    "metrics": {
+      "nll": 0.1124015673995018,
+      "ppl": 1.118962109141542
+    }
+  },
+  {
+    "query": "According to Greek myth, who was the wife of Odysseus, celebrated for her faithfulness to him during his twenty year absence?",
+    "answer": "Penelope",
+    "id": "odql_8191",
+    "metrics": {
+      "nll": 1.7694721221923828,
+      "ppl": 2.4223449560309747
+    }
+  },
+  {
+    "query": "What city will host the 2016 Olympics?",
+    "answer": "Rio de Janeiro",
+    "id": "jp_2252",
+    "metrics": {
+      "nll": 1.5699400901794434,
+      "ppl": 1.6876100617123155
+    }
+  },
+  {
+    "query": "What is the capital of Colombia?",
+    "answer": "Bogota",
+    "id": "bb_8084",
+    "metrics": {
+      "nll": 0.6648740172386169,
+      "ppl": 1.394362063626935
+    }
+  },
+  {
+    "query": "What is the smallest Canadian province",
+    "answer": "Prince Edward Island",
+    "id": "bt_2111",
+    "metrics": {
+      "nll": 1.9218766689300537,
+      "ppl": 1.8976676060293252
+    }
+  },
+  {
+    "query": "Which Italian city is known as the pizza capital of the world?",
+    "answer": "Naples",
+    "id": "dpql_1651",
+    "metrics": {
+      "nll": 1.1845391988754272,
+      "ppl": 3.2691800324921845
+    }
+  },
+  {
+    "query": "What was Mumbai formerly called?",
+    "answer": "Mumbai",
+    "id": "jp_2523",
+    "metrics": {
+      "nll": 1.1715216636657715,
+      "ppl": 3.226899159748727
+    }
+  },
+  {
+    "query": "Which US comic superhero has the real name Steve Rogers?",
+    "answer": "Captain America",
+    "id": "sfq_971",
+    "metrics": {
+      "nll": 1.2506886720657349,
+      "ppl": 1.8688893726027815
+    }
+  },
+  {
+    "query": "What was the language of the Roman Empire?",
+    "answer": "Latin",
+    "id": "jp_3011",
+    "metrics": {
+      "nll": 0.510948657989502,
+      "ppl": 1.6668717363208863
+    }
+  },
+  {
+    "query": "Which late American musician, who pioneered the styles of rock and roll and rockabilly, was born Vincent Eugene Craddock in 1935?",
+    "answer": "Vincent Eugene Craddock",
+    "id": "qb_8367",
+    "metrics": {
+      "nll": 2.828289747238159,
+      "ppl": 2.0280453284980315
+    }
+  },
+  {
+    "query": "Which volcano in Tanzania is the highest mountain in Africa?",
+    "answer": "Mount Kilimanjaro",
+    "id": "tc_217",
+    "metrics": {
+      "nll": 1.4621057510375977,
+      "ppl": 1.339667099926411
+    }
+  },
+  {
+    "query": "Feb 15, 1564 saw the birth of what famed Italian physicist, mathematician, astronomer, and philosopher, who discovered the first 4 moons of Jupiter?",
+    "answer": "Galileo",
+    "id": "qg_488",
+    "metrics": {
+      "nll": 0.8116939067840576,
+      "ppl": 2.251718960070641
+    }
+  },
+  {
+    "query": "Charles Lindbergh became famous by flying which aeroplane?",
+    "answer": "The Spirit of St. Louis",
+    "id": "qw_1253",
+    "metrics": {
+      "nll": 2.1964950561523438,
+      "ppl": 1.4420742223652985
+    }
+  },
+  {
+    "query": "What alphabet is used in Russia?",
+    "answer": "Cyrillic",
+    "id": "jp_3613",
+    "metrics": {
+      "nll": 0.6959080100059509,
+      "ppl": 1.2610810592890842
+    }
+  },
+  {
+    "query": "Name the British scientist author of the best-selling book A Brief History of Time?",
+    "answer": "Stephen Hawking",
+    "id": "bb_1721",
+    "metrics": {
+      "nll": 2.293412685394287,
+      "ppl": 3.147808016077378
+    }
+  },
+  {
+    "query": "Stanislaw August Poniatowski was the last king of which European country?",
+    "answer": "Poland",
+    "id": "qb_3849",
+    "metrics": {
+      "nll": 0.5686203241348267,
+      "ppl": 1.765829098239004
+    }
+  },
+  {
+    "query": "Which car manufacturer produces a model called the RAV4?",
+    "answer": "Toyota",
+    "id": "sfq_2452",
+    "metrics": {
+      "nll": 1.1757330894470215,
+      "ppl": 3.2405176625923127
+    }
+  },
+  {
+    "query": "The Angostura Bridge crosses the Orinoco River in which country?",
+    "answer": "Venezuela",
+    "id": "odql_12232",
+    "metrics": {
+      "nll": 0.6943106055259705,
+      "ppl": 2.0023282040147756
+    }
+  },
+  {
+    "query": "Introduced in 1894 and one of the world's oldest trademarks, Bibendum is better known as what?",
+    "answer": "Bibendum",
+    "id": "bb_5700",
+    "metrics": {
+      "nll": 1.4780887365341187,
+      "ppl": 2.093933528739431
+    }
+  },
+  {
+    "query": "What is the favourite drink of a vampire?",
+    "answer": "Blood",
+    "id": "qw_8418",
+    "metrics": {
+      "nll": 1.706954836845398,
+      "ppl": 5.5121504969293404
+    }
+  },
+  {
+    "query": "What is the nickname of Sheffield United",
+    "answer": "The Blades",
+    "id": "bt_3435",
+    "metrics": {
+      "nll": 2.796884536743164,
+      "ppl": 4.048887971070841
+    }
+  },
+  {
+    "query": "Ligustrum is the Latin name for which shrub?",
+    "answer": "Ligustrum",
+    "id": "qb_4017",
+    "metrics": {
+      "nll": 2.2211902141571045,
+      "ppl": 1.7424593826010344
+    }
+  },
+  {
+    "query": "Who is the most famous character created by Sir Arthur Conan Doyle?",
+    "answer": "Sherlock Holmes",
+    "id": "qg_1429",
+    "metrics": {
+      "nll": 0.7455052137374878,
+      "ppl": 1.451725148573653
+    }
+  },
+  {
+    "query": "Kirkland Signature is the house brand of what retail giant?",
+    "answer": "Kirkland Signature",
+    "id": "qg_547",
+    "metrics": {
+      "nll": 1.367460012435913,
+      "ppl": 1.5774663818015202
+    }
+  },
+  {
+    "query": "The most northerly part of mainland Australia is in which state?",
+    "answer": "Queensland",
+    "id": "sfq_17893",
+    "metrics": {
+      "nll": 2.2145040035247803,
+      "ppl": 9.156866211705704
+    }
+  },
+  {
+    "query": "The revolutionary group the Sandinistas were active in which country?",
+    "answer": "Nicaragua",
+    "id": "sfq_22481",
+    "metrics": {
+      "nll": 0.3014869689941406,
+      "ppl": 1.3518674988300288
+    }
+  },
+  {
+    "query": "Keflavik is the main international airport of which country?",
+    "answer": "Iceland",
+    "id": "qb_241",
+    "metrics": {
+      "nll": 1.3006519079208374,
+      "ppl": 3.6716894910462976
+    }
+  },
+  {
+    "query": "Which city, since the 14th century BC, has been controlled by Israelites, Judaeans, Babylonians, Persians, Greeks, Hasmoneans, Romans, Byzantines, Arabs, Mamluks, Turks, and the British and for a short time after World War II was occupied by Israel and Jordan?",
+    "answer": "Jerusalem",
+    "id": "qw_6477",
+    "metrics": {
+      "nll": 1.1732213497161865,
+      "ppl": 3.232388539025802
+    }
+  },
+  {
+    "query": "During the Falklands War which ship was the British flagship?",
+    "answer": "HMS Hermes",
+    "id": "sfq_15588",
+    "metrics": {
+      "nll": 3.3641762733459473,
+      "ppl": 5.376771691219052
+    }
+  },
+  {
+    "query": "What island country lies off the southeast tip of India?",
+    "answer": "Sri Lanka",
+    "id": "jp_1791",
+    "metrics": {
+      "nll": 2.113356828689575,
+      "ppl": 2.8767995657459897
+    }
+  },
+  {
+    "query": "What colour jumper does fictional character Rupert the Bear wear?",
+    "answer": "Red",
+    "id": "qb_4738",
+    "metrics": {
+      "nll": 2.1175310611724854,
+      "ppl": 8.310593789869193
+    }
+  },
+  {
+    "query": "Mt. Aconcagua, the highest peak in the Western Hemisphere, stands in which South American country?",
+    "answer": "Argentina",
+    "id": "sfq_312",
+    "metrics": {
+      "nll": 1.6267402172088623,
+      "ppl": 5.0872642834750925
+    }
+  },
+  {
+    "query": "The Orinoco river meets the sea on which country's coast?",
+    "answer": "Venezuela",
+    "id": "bb_9141",
+    "metrics": {
+      "nll": 1.2037150859832764,
+      "ppl": 3.3324743828795325
+    }
+  },
+  {
+    "query": "What is the name of me political party, led by Alexis Tsipras,which won the general election in Greece in January 2015?",
+    "answer": "Syriza",
+    "id": "sfq_24133",
+    "metrics": {
+      "nll": 1.131922721862793,
+      "ppl": 1.7611400603954406
+    }
+  },
+  {
+    "query": "A Gay Girl in Damascus is the title of a hoax blog by fictional feminist/freedom campaigner Amina Abdallah Alaf al Omari, who in June 2011 was said to be based and abducted in which country?",
+    "answer": "Syria",
+    "id": "bb_1777",
+    "metrics": {
+      "nll": 0.9183608889579773,
+      "ppl": 2.505180753345977
+    }
+  },
+  {
+    "query": "What is the name of the official publication of the Jehova’s Witnesses",
+    "answer": "The Watchtower",
+    "id": "bt_685",
+    "metrics": {
+      "nll": 1.495187759399414,
+      "ppl": 1.6460787095607832
+    }
+  },
+  {
+    "query": "Who founded the TV production company 'David Paradine Productions'?",
+    "answer": "David Paradine",
+    "id": "odql_2332",
+    "metrics": {
+      "nll": 1.385763168334961,
+      "ppl": 1.587120004855435
+    }
+  },
+  {
+    "query": "The first 10 amendments to the US Constitution are collectively know as what?",
+    "answer": "The Bill of Rights",
+    "id": "qg_261",
+    "metrics": {
+      "nll": 0.40839895606040955,
+      "ppl": 1.1074939265729813
+    }
+  },
+  {
+    "query": "Which company was founded by Bill Gates and Paul Allen in Albuquerque, New Mexico, on 4 April 1975 to develop and sell BASIC interpreters for a new microcomputer, the Altair 8800?",
+    "answer": "Microsoft",
+    "id": "qw_7439",
+    "metrics": {
+      "nll": 1.7618608474731445,
+      "ppl": 5.82326352360434
+    }
+  },
+  {
+    "query": "Sun Yat Sen overthrew the emperor in which country establishing a republic after 2000 years of imperial rule?",
+    "answer": "China",
+    "id": "tc_1914",
+    "metrics": {
+      "nll": 1.6561049222946167,
+      "ppl": 5.238865264441831
+    }
+  },
+  {
+    "query": "A quadruped is an animal with how many feet?",
+    "answer": "Four",
+    "id": "qb_7419",
+    "metrics": {
+      "nll": 1.566144347190857,
+      "ppl": 4.788151109247137
+    }
+  },
+  {
+    "query": "Which American science fiction television series, first aired from 1993 to 2002, tapped into public mistrust of governments and large institutions and interest in conspiracy theories and spirituality, centring on efforts to uncover the existence of extraterrestrial life?",
+    "answer": "The X-Files",
+    "id": "qw_4668",
+    "metrics": {
+      "nll": 1.3664436340332031,
+      "ppl": 1.4072126565081249
+    }
+  },
+  {
+    "query": "Hamid Karzai became the first elected president of which country in 2004?",
+    "answer": "Afghanistan",
+    "id": "sfq_3446",
+    "metrics": {
+      "nll": 0.5797762274742126,
+      "ppl": 1.785638809133108
+    }
+  },
+  {
+    "query": "What is the official language of Nicaragua?",
+    "answer": "Spanish",
+    "id": "qb_2932",
+    "metrics": {
+      "nll": 1.2883052825927734,
+      "ppl": 3.6266352229976384
+    }
+  },
+  {
+    "query": "Which city in Saxony was known as Karl-Marx-Stadt from 1953 until 1990?",
+    "answer": "Karl-Marx-Stadt",
+    "id": "wh_86",
+    "metrics": {
+      "nll": 0.6177271604537964,
+      "ppl": 1.092257589370695
+    }
+  },
+  {
+    "query": "What is the only sequel to win an Academy Award for Best Picture?",
+    "answer": "The Godfather Part II",
+    "id": "qw_15544",
+    "metrics": {
+      "nll": 4.619807243347168,
+      "ppl": 2.5192505302796557
+    }
+  },
+  {
+    "query": "Indonesia's internet country TLD (top level domain) is?",
+    "answer": ".id",
+    "id": "bb_4438",
+    "metrics": {
+      "nll": 1.9543461799621582,
+      "ppl": 2.6569347002538732
+    }
+  },
+  {
+    "query": "The city of Baghdad lies on which river?",
+    "answer": "The Tigris",
+    "id": "qb_5544",
+    "metrics": {
+      "nll": 1.0446609258651733,
+      "ppl": 1.416544292286575
+    }
+  },
+  {
+    "query": "What is the Japanese art of paper-folding called?",
+    "answer": "Paper-folding",
+    "id": "qb_5532",
+    "metrics": {
+      "nll": 2.2905402183532715,
+      "ppl": 1.772932676029084
+    }
+  },
+  {
+    "query": "Which river originates in the Taurus Mountains, and flows through Syria and Iraq?",
+    "answer": "The Euphrates",
+    "id": "qz_3708",
+    "metrics": {
+      "nll": 1.1111524105072021,
+      "ppl": 1.4482908496855247
+    }
+  },
+  {
+    "query": "Which English football league team are known as The Posh'?",
+    "answer": "The Posh",
+    "id": "odql_13628",
+    "metrics": {
+      "nll": 3.8833065032958984,
+      "ppl": 3.6489355725269106
+    }
+  },
+  {
+    "query": "British actor Maurice Micklewhite is better known by what name?",
+    "answer": "Maurice Micklewhite",
+    "id": "qb_6328",
+    "metrics": {
+      "nll": 0.7122621536254883,
+      "ppl": 1.1949036307483598
+    }
+  },
+  {
+    "query": "Which newspaper did Peter Parker work for?",
+    "answer": "The Daily Bugle",
+    "id": "jp_2054",
+    "metrics": {
+      "nll": 0.856584906578064,
+      "ppl": 1.2388037876709879
+    }
+  },
+  {
+    "query": "Who was elected Governor of the US State of Texas in 1994?",
+    "answer": "George W",
+    "id": "qw_7396",
+    "metrics": {
+      "nll": 0.5219905376434326,
+      "ppl": 1.2982215233016818
+    }
+  },
+  {
+    "query": "Which one of the seven member territories is also capital of UAE (United Arab Emirates)?",
+    "answer": "Abu Dhabi",
+    "id": "bb_6164",
+    "metrics": {
+      "nll": 1.3921799659729004,
+      "ppl": 2.005894273440359
+    }
+  },
+  {
+    "query": "Which is the oldest of the eight Ivy League Universities, founded in 1636 as New College?",
+    "answer": "Harvard",
+    "id": "odql_8365",
+    "metrics": {
+      "nll": 1.2717080116271973,
+      "ppl": 3.5669397369373956
+    }
+  },
+  {
+    "query": "The Formula One Sepang International Circuit is in which country?",
+    "answer": "Malaysia",
+    "id": "qb_9423",
+    "metrics": {
+      "nll": 0.28903311491012573,
+      "ppl": 1.3351359407031453
+    }
+  },
+  {
+    "query": "Who became Secretary -General of the Soviet Communist Party in 1985?",
+    "answer": "Mikhail Gorbachev",
+    "id": "sfq_13336",
+    "metrics": {
+      "nll": 2.367957592010498,
+      "ppl": 1.8075808385431098
+    }
+  },
+  {
+    "query": "Who is currently the Prime Minister of New Zealand?",
+    "answer": "John Key",
+    "id": "sfq_7221",
+    "metrics": {
+      "nll": 1.6698240041732788,
+      "ppl": 2.304611238383634
+    }
+  },
+  {
+    "query": "Who plays the title character in the recent BBC TV series 'Sherlock'?",
+    "answer": "Benedict Cumberbatch",
+    "id": "odql_11509",
+    "metrics": {
+      "nll": 1.138443946838379,
+      "ppl": 1.461526321915793
+    }
+  },
+  {
+    "query": "In which city would you find O'Hare International Airport?",
+    "answer": "Chicago",
+    "id": "qz_603",
+    "metrics": {
+      "nll": 0.8431004285812378,
+      "ppl": 2.3235598518964475
+    }
+  },
+  {
+    "query": "Prince Charles founded what organisation in 1976 to help young employed people?",
+    "answer": "The Prince's Trust",
+    "id": "qw_7308",
+    "metrics": {
+      "nll": 2.3413193225860596,
+      "ppl": 1.7955831263248865
+    }
+  },
+  {
+    "query": "After the murder of his children's nanny, Sandra Rivett, Richard John Bingham disappeared on 8 November 1974, was presumed deceased on 11 December 1992 and declared legally dead in October 1999. By what name is he better known?",
+    "answer": "Richard John Bingham",
+    "id": "qw_11320",
+    "metrics": {
+      "nll": 1.8159507513046265,
+      "ppl": 1.5745786108700863
+    }
+  },
+  {
+    "query": "Which chemical element, atomic number 74, used to be called Wolfram?",
+    "answer": "Wolframium",
+    "id": "sfq_8071",
+    "metrics": {
+      "nll": 2.430008888244629,
+      "ppl": 2.2479146466717004
+    }
+  },
+  {
+    "query": "Late British singer-songwriter John Simon Ritchie was better known by what name?",
+    "answer": "John Simon Ritchie",
+    "id": "qb_7880",
+    "metrics": {
+      "nll": 1.968125581741333,
+      "ppl": 1.6356354698867708
+    }
+  },
+  {
+    "query": "Eric Arthur Blair, born 25 June, 1903, was the birth name of what famed English author, who penned such works as The Road To Wiggan Pier and Down and Out in Paris and London?",
+    "answer": "Eric Arthur Blair",
+    "id": "qg_2021",
+    "metrics": {
+      "nll": 2.848839282989502,
+      "ppl": 2.58470942709749
+    }
+  },
+  {
+    "query": "Proposed in 1776, 'E pluribus unum' ('One from many'), is on the national seal and banknotes of which nation?",
+    "answer": "The United States",
+    "id": "bb_5544",
+    "metrics": {
+      "nll": 1.8344202041625977,
+      "ppl": 1.843145091646745
+    }
+  },
+  {
+    "query": "Who was the first woman to fly the Atlantic solo",
+    "answer": "Amelia Earhart",
+    "id": "bt_264",
+    "metrics": {
+      "nll": 1.6025370359420776,
+      "ppl": 1.7060470229745581
+    }
+  },
+  {
+    "query": "The Old Faithful geyser is in which American national park?",
+    "answer": "Yellowstone",
+    "id": "sfq_720",
+    "metrics": {
+      "nll": 0.9569608569145203,
+      "ppl": 2.6037712032596243
+    }
+  },
+  {
+    "query": "What was the name of the Liverpool nightclub where the Beatles regularly played?",
+    "answer": "The Cavern",
+    "id": "qz_6827",
+    "metrics": {
+      "nll": 2.681175947189331,
+      "ppl": 3.8212896623801664
+    }
+  },
+  {
+    "query": "Of which country was Cleopatra the Queen",
+    "answer": "Egypt",
+    "id": "bt_3707",
+    "metrics": {
+      "nll": 0.5423974990844727,
+      "ppl": 1.7201259228149097
+    }
+  },
+  {
+    "query": "Of which football club was Santiago Bernabeu the President from 1943 to 1978?",
+    "answer": "Real Madrid",
+    "id": "odql_6813",
+    "metrics": {
+      "nll": 0.9806307554244995,
+      "ppl": 1.632831097296648
+    }
+  },
+  {
+    "query": "Belonging to Indonesia, Irian Jaya is the western portion of which large island?",
+    "answer": "Irian",
+    "id": "odql_7776",
+    "metrics": {
+      "nll": 1.6997616291046143,
+      "ppl": 2.3393680166853823
+    }
+  },
+  {
+    "query": "Julia Gillard became the first female Prime Minister of which country?",
+    "answer": "Australia",
+    "id": "sfq_19073",
+    "metrics": {
+      "nll": 0.5543331503868103,
+      "ppl": 1.7407797593265817
+    }
+  },
+  {
+    "query": "What boxer was stripped of his heavyweight boxing titles when he refused his US army induction in April, 1967?",
+    "answer": "Muhammad Ali",
+    "id": "qg_1107",
+    "metrics": {
+      "nll": 2.3984341621398926,
+      "ppl": 3.3175185576350827
+    }
+  },
+  {
+    "query": "Who was President of France for over 10 years from 1958?",
+    "answer": "Charles de Gaul",
+    "id": "qw_2806",
+    "metrics": {
+      "nll": 2.385211944580078,
+      "ppl": 2.214597448586252
+    }
+  },
+  {
+    "query": "What colour on the London underground map is the District Line",
+    "answer": "Green",
+    "id": "bt_1955",
+    "metrics": {
+      "nll": 2.0388150215148926,
+      "ppl": 7.681501389785614
+    }
+  },
+  {
+    "query": "What is the capital of Rwanda?",
+    "answer": "Kigali",
+    "id": "sfq_9742",
+    "metrics": {
+      "nll": 0.9590271711349487,
+      "ppl": 1.3766812668541397
+    }
+  },
+  {
+    "query": "What Arizona national park was formed over millions of years by the relentless efforts of the Colorado River?",
+    "answer": "Grand Canyon",
+    "id": "qg_3858",
+    "metrics": {
+      "nll": 1.4468765258789062,
+      "ppl": 2.0615090495402737
+    }
+  },
+  {
+    "query": "Maurice Cole was better known as which comedian?",
+    "answer": "Maurice Cole",
+    "id": "sfq_20219",
+    "metrics": {
+      "nll": 2.613377094268799,
+      "ppl": 3.6939211906707428
+    }
+  },
+  {
+    "query": "Under what name did the Japanese car company Nissan formerly sell its cars in the UK?",
+    "answer": "Nissan",
+    "id": "dpql_205",
+    "metrics": {
+      "nll": 1.667999505996704,
+      "ppl": 5.301551459858508
+    }
+  },
+  {
+    "query": "American rapper Tramar Dillard is better known by what stage name?",
+    "answer": "Tramar",
+    "id": "qw_8247",
+    "metrics": {
+      "nll": 2.394421100616455,
+      "ppl": 3.3108685285717327
+    }
+  },
+  {
+    "query": "What is Canada's most populous province?",
+    "answer": "Ontario",
+    "id": "sfq_15794",
+    "metrics": {
+      "nll": 0.8755685091018677,
+      "ppl": 2.400239464140802
+    }
+  },
+  {
+    "query": "What was the Elephant Man's real name?",
+    "answer": "The Elephant Man",
+    "id": "sfq_8522",
+    "metrics": {
+      "nll": 3.054272413253784,
+      "ppl": 2.767905243743734
+    }
+  },
+  {
+    "query": "Still on pigs. Which country rears 40% of the world's total of around 764 million pigs?",
+    "answer": "China",
+    "id": "odql_9016",
+    "metrics": {
+      "nll": 1.005578875541687,
+      "ppl": 2.733489164943477
+    }
+  },
+  {
+    "query": "Ereuthophobia is the irrational fear of which colour?",
+    "answer": "Red",
+    "id": "qb_8699",
+    "metrics": {
+      "nll": 2.500243663787842,
+      "ppl": 12.185462755006442
+    }
+  },
+  {
+    "query": "Who was king of France at the time of the French Revolution?",
+    "answer": "Louis XVI",
+    "id": "tc_2496",
+    "metrics": {
+      "nll": 2.0533876419067383,
+      "ppl": 2.7918203016437646
+    }
+  },
+  {
+    "query": "What is the common name for the garden shrub pyracantha?",
+    "answer": "Pyracantha",
+    "id": "sfq_14611",
+    "metrics": {
+      "nll": 1.0703701972961426,
+      "ppl": 1.4287358977906004
+    }
+  },
+  {
+    "query": "What is the acronym for the agency which provides co-operation between police forces worldwide?",
+    "answer": "INTERPOL",
+    "id": "qz_204",
+    "metrics": {
+      "nll": 2.5813474655151367,
+      "ppl": 3.6352349077315265
+    }
+  },
+  {
+    "query": "In the Harry Potter books there are 4 houses at Hogwarts School. Three of them are Gryffendor, Ravenclaw and Slytherin. Name the fourth.",
+    "answer": "Hufflepuff",
+    "id": "sfq_21495",
+    "metrics": {
+      "nll": 1.486278772354126,
+      "ppl": 1.6411976627120923
+    }
+  },
+  {
+    "query": "Tallinn is the capital of which country?",
+    "answer": "Estonia",
+    "id": "bb_7188",
+    "metrics": {
+      "nll": 0.8797013759613037,
+      "ppl": 2.4101798612968657
+    }
+  },
+  {
+    "query": "Who was the original bass guitarist with The Who",
+    "answer": "John Entwistle",
+    "id": "bt_4413",
+    "metrics": {
+      "nll": 2.416018486022949,
+      "ppl": 1.8294303267010736
+    }
+  },
+  {
+    "query": "Of which country is Yingluck Shinawatra the Prime Minister?",
+    "answer": "Thailand",
+    "id": "odql_2542",
+    "metrics": {
+      "nll": 0.7282086610794067,
+      "ppl": 2.0713667623891414
+    }
+  },
+  {
+    "query": "Which country will host the 2014 FIFA World Cup?",
+    "answer": "Brazil",
+    "id": "qb_3042",
+    "metrics": {
+      "nll": 1.2112517356872559,
+      "ppl": 3.3576849572524967
+    }
+  },
+  {
+    "query": "Which capital city is known as Praha by its inhabitants?",
+    "answer": "Praha",
+    "id": "odql_10056",
+    "metrics": {
+      "nll": 1.5966076850891113,
+      "ppl": 2.221769260230072
+    }
+  },
+  {
+    "query": "On August 28, 1963, who stood on the steps of Lincoln Memorial and famously stated \"I have a dream\"?",
+    "answer": "Martin Luther King",
+    "id": "qg_2935",
+    "metrics": {
+      "nll": 1.389028549194336,
+      "ppl": 1.588848462458644
+    }
+  },
+  {
+    "query": "In April 1814 which King gained the French throne to begin the Bourbon Restoration?",
+    "answer": "Louis XVIII",
+    "id": "odql_8369",
+    "metrics": {
+      "nll": 2.5520215034484863,
+      "ppl": 2.3412239179335166
+    }
+  },
+  {
+    "query": "What king is the most-mentioned person in the Bible, after Jesus?",
+    "answer": "King David",
+    "id": "jp_4221",
+    "metrics": {
+      "nll": 2.1185927391052246,
+      "ppl": 2.8843407651049837
+    }
+  },
+  {
+    "query": "Milwaukee is the largest city in which American state?",
+    "answer": "Wisconsin",
+    "id": "odql_14523",
+    "metrics": {
+      "nll": 0.8602253198623657,
+      "ppl": 2.363693220740255
+    }
+  },
+  {
+    "query": "Which country is known to its people as Suomen Tasavalta?",
+    "answer": "Finland",
+    "id": "tc_2506",
+    "metrics": {
+      "nll": 0.7988052368164062,
+      "ppl": 2.222883521929398
+    }
+  },
+  {
+    "query": "What is the capital of Indonesia?",
+    "answer": "Jakarta",
+    "id": "qb_92",
+    "metrics": {
+      "nll": 0.3371289372444153,
+      "ppl": 1.4009196828175714
+    }
+  },
+  {
+    "query": "Which Alpine peak is known in Italy as Monte Cervino?",
+    "answer": "Monte Cervino",
+    "id": "sfq_5269",
+    "metrics": {
+      "nll": 1.1774396896362305,
+      "ppl": 1.342266928682563
+    }
+  },
+  {
+    "query": "Which chemical element is the most abundant in the average human body, making up around 65% of actual composition?",
+    "answer": "Oxygen",
+    "id": "odql_12854",
+    "metrics": {
+      "nll": 0.8406656980514526,
+      "ppl": 1.522468223356868
+    }
+  },
+  {
+    "query": "What dance craze was named after a city in South Carolina?",
+    "answer": "The Charleston",
+    "id": "jp_124",
+    "metrics": {
+      "nll": 3.0367019176483154,
+      "ppl": 4.5646916208244654
+    }
+  },
+  {
+    "query": "What is the name of the vast hall where the Norse gods live?",
+    "answer": "Valhalla",
+    "id": "jp_4206",
+    "metrics": {
+      "nll": 0.8036482334136963,
+      "ppl": 2.2336750498361533
+    }
+  },
+  {
+    "query": "What city celebrates the original Oktoberfest?",
+    "answer": "Munich",
+    "id": "jp_2062",
+    "metrics": {
+      "nll": 0.9043523073196411,
+      "ppl": 2.4703313892275376
+    }
+  },
+  {
+    "query": "What is the largest city in Turkey?",
+    "answer": "Istanbul",
+    "id": "qz_1453",
+    "metrics": {
+      "nll": 0.503179669380188,
+      "ppl": 1.6539720026129103
+    }
+  },
+  {
+    "query": "According to Greek legend, who was the wife of Odysseus?",
+    "answer": "Penelope",
+    "id": "sfq_20882",
+    "metrics": {
+      "nll": 1.9269883632659912,
+      "ppl": 2.62083817735735
+    }
+  },
+  {
+    "query": "By what name is the garden flowering plant hypericum commonly known?",
+    "answer": "Hypericum perforatum",
+    "id": "sfq_6829",
+    "metrics": {
+      "nll": 2.3341715335845947,
+      "ppl": 1.5949371111556236
+    }
+  },
+  {
+    "query": "What is the US state capital of Alabama?",
+    "answer": "Montgomery",
+    "id": "qb_4561",
+    "metrics": {
+      "nll": 0.9648276567459106,
+      "ppl": 2.624335331007306
+    }
+  },
+  {
+    "query": "Which US gangster was released from Alcatraz prison in November 1939?",
+    "answer": "Al Capone",
+    "id": "qb_1253",
+    "metrics": {
+      "nll": 2.565349578857422,
+      "ppl": 2.3516483934625545
+    }
+  },
+  {
+    "query": "Who was the 16th president of the U.S.A.,assasinated in 1865",
+    "answer": "Abraham Lincoln",
+    "id": "qz_5039",
+    "metrics": {
+      "nll": 0.9138963222503662,
+      "ppl": 1.5792470157391196
+    }
+  },
+  {
+    "query": "Miami Beach in Florida borders which ocean?",
+    "answer": "The Atlantic Ocean",
+    "id": "qw_3199",
+    "metrics": {
+      "nll": 2.098052740097046,
+      "ppl": 2.012446031622027
+    }
+  },
+  {
+    "query": "Which dynasty ruled China from 1368 to 1644",
+    "answer": "The Ming Dynasty",
+    "id": "odql_14185",
+    "metrics": {
+      "nll": 3.2903850078582764,
+      "ppl": 2.9945530926473647
+    }
+  }
+]

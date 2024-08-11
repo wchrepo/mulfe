@@ -1,0 +1,13 @@
+model_name: EleutherAI/gpt-neo-2.7B
+editor:
+  type: FineTuning
+  trainable_pattern: '.'
+  opt_name: AdamW
+  opt_kwargs:
+    lr: 1e-5
+    weight_decay: 0.0
+  minibatch_tokens: 1024
+  steps: 25
+  early_stop: 0.005
+  train_mode: False
+  

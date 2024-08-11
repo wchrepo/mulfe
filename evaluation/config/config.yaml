@@ -1,0 +1,7 @@
+
+#Basic Config
+low_vram: False
+preprocess: Null
+add_cloze_hint: True #change from False
+specifity_data: tq_specifity_random400 #change from tq_specifity_400
+simplification: Null

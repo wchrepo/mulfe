@@ -1,0 +1,12 @@
+model_name: gpt2-xl
+editor:
+  type: FineTuning
+  trainable_pattern: 'transformer\.h\.{layers}\.mlp\.' #single quote does not has escape, so I do not need to use \\
+  opt_name: AdamW
+  opt_kwargs:
+    lr: 1e-4
+    weight_decay: 0.0
+  minibatch_tokens: 1024
+  steps: 25
+  early_stop: 0.005
+  train_mode: False
